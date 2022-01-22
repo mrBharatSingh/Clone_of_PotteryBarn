@@ -1,0 +1,185 @@
+#cartContainer {
+  width: 80%;
+  display: flex;
+  margin: 20px auto;
+}
+#cartContainer1 {
+  /* width: fit-content;
+    margin: auto; */
+  margin-right: 20px;
+  background-color: #f8f8f8;
+  padding: 20px;
+}
+#CartHeading {
+  display: flex;
+  /* width: 500px; */
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+#carDonationdiv {
+  border: 1px solid black;
+  padding: 20px;
+  display: flex;
+  text-align: center;
+}
+#carDonationdiv div p {
+  line-height: 35px;
+}
+
+.donation {
+  margin: 10px 0px;
+  display: flex;
+  justify-content: center;
+}
+.donation p {
+  border: 1px solid black;
+  padding: 0px 5px;
+  width: 50px;
+  margin-right: 20px;
+}
+.shoppingBold {
+  font-weight: bold;
+}
+#shopRecmmendBox {
+  width: 80%;
+  margin: auto;
+}
+#shopRecmmendBox h3 {
+  margin: 10px 0px;
+}
+#shopRecmmend {
+  display: flex;
+}
+#shopRecmmend div {
+  width: 25%;
+  margin-right: 20px;
+}
+#shopRecmmend div img {
+  width: 100%;
+}
+
+#cartOrderSummary {
+  width: 30%;
+}
+#cartTotalDiv {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0px;
+}
+
+#cartTotalDiv div {
+  display: flex;
+}
+.Subtotal {
+  font-weight: bold;
+  margin-right: 2px;
+}
+
+#cartTotalDiv span {
+  width: fit-content;
+}
+
+.cartSmallLetter {
+  font-size: 10px;
+}
+
+.cartSmallLetter1 {
+  font-size: 12px;
+}
+
+#cartline {
+  border: 1px solid gray;
+  border-left: none;
+  border-right: none;
+  margin: 20px 0px;
+  padding: 15px 0px;
+}
+
+#cartbuttonDiv {
+  border: 1px solid gray;
+  border-left: none;
+  border-right: none;
+  margin: 20px 0px;
+  padding: 20px 0px;
+}
+
+#cartbuttonDiv button {
+  background-color: #990000;
+  color: white;
+  font-size: 18px;
+  padding: 2px;
+  width: 95%;
+  height: 35px;
+  margin: auto;
+  border: none;
+  margin: 20px 0px;
+}
+
+.cartOfferDiv {
+  display: flex;
+}
+
+.cartOfferDiv div {
+  margin-right: 10px;
+}
+
+.paynemtRadio {
+  background-color: #f8f8f8;
+  margin-top: 10px;
+  padding: 3px 0px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.paynemtRadio input[type="radio"] {
+  height: 20px;
+  width: 20px;
+  margin: 10px;
+}
+
+.paynemtRadio input[type="radio"]:checked::after {
+  background-color: gray;
+}
+
+#cartItembox {
+  display: flex;
+  background-color: #ffffff;
+  padding: 15px;
+  margin-top: 20px;
+  border: 1px solid gray;
+}
+
+#imgDiv img {
+  width: 200px;
+}
+
+#imgDiv div {
+  margin-top: 10px;
+  margin-right: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+#imgDiv {
+  margin-right: 20px;
+}
+
+#priceDiv {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0px;
+}
+#qinput {
+  height: 40px;
+  width: 60px;
+  font-size: 25px;
+  text-align: center;
+}
+#qinput::placeholder {
+  color: black;
+  opacity: 1;
+}
+
+#qdiv {
+  margin-left: 100px;
+}

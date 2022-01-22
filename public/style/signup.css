@@ -1,0 +1,135 @@
+#sign_container {
+  display: flex;
+  margin: 30px auto;
+  justify-content: flex-start;
+}
+
+#signin_container {
+  width: 500px;
+  margin: 10px auto;
+  /* margin-bottom: 650px; */
+}
+
+#sign_input {
+  display: flex;
+  flex-direction: column;
+}
+
+#email {
+  width: 400px;
+  height: 40px;
+}
+
+#pass {
+  width: 400px;
+  height: 40px;
+}
+
+#t3 {
+  display: flex;
+}
+
+#five {
+  font: bold;
+}
+
+#create_container {
+  width: 500px;
+  margin: auto;
+}
+
+#create_input {
+  display: flex;
+  flex-direction: column;
+}
+
+#firstname {
+  width: 400px;
+  height: 40px;
+  font-size: 16px;
+  padding-left: 10px;
+}
+
+#email_address {
+  width: 400px;
+  height: 40px;
+  font-size: 16px;
+  padding-left: 10px;
+}
+
+#Confirm {
+  width: 400px;
+  height: 40px;
+  font-size: 16px;
+  padding-left: 10px;
+}
+
+#password {
+  width: 400px;
+  height: 40px;
+  font-size: 16px;
+  padding-left: 10px;
+}
+
+#passwordconfirmation {
+  width: 400px;
+  height: 40px;
+  font-size: 16px;
+  padding-left: 10px;
+}
+
+#aaa {
+  width: 100px;
+  height: 40px;
+  background-color: black;
+  color: white;
+}
+
+#aa {
+  width: 200px;
+  height: 50px;
+  background-color: black;
+  color: white;
+}
+
+#p_id {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#p_id1 {
+  color: red;
+}
+
+#d {
+  text-decoration: underline;
+}
+
+#p_id2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+#wrongemail,
+#wrongpass {
+  color: red;
+  font-weight: bold;
+}
+#email {
+  padding-left: 10px;
+  font-weight: bold;
+  font-size: 16px;
+}
+#pass {
+  padding-left: 10px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#wronfname,
+#wronemail,
+#wronCemail,
+#wronpass,
+#wronCpass {
+  color: red;
+  font-weight: bold;
+}

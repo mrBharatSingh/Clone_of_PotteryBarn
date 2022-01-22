@@ -1,0 +1,464 @@
+.mega_sale {
+  height: 170px;
+  width: 100%;
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+}
+
+.mega_sale div {
+  height: 100%;
+}
+
+.img1 {
+  /* height: 100px; */
+  width: 50%;
+  height: 100%;
+}
+.img1 img {
+  width: 100%;
+  height: 100%;
+}
+.img2 {
+  /* height: 50%; */
+  width: 50%;
+  height: 100%;
+}
+
+.img2 img {
+  width: 100%;
+  height: 100%;
+}
+
+.img2 div {
+  height: 50%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.four-slider {
+  display: flex;
+  padding-top: 40px;
+  width: 90%;
+  margin: auto;
+}
+
+.four-slider .verti-image {
+  width: 255px;
+  height: 400px;
+  padding-right: 20px;
+}
+
+.four-slider .verti-image img {
+  width: 100%;
+  height: 100%;
+}
+
+.full-width-banner {
+  width: 100%;
+  height: 200px;
+}
+
+.full-width-banner .full-width img {
+  width: 100%;
+  height: 100%;
+}
+
+.full-width-banner1 {
+  width: 100%;
+  height: 100px;
+}
+
+.full-width-banner1 .full-width1 img {
+  width: 100%;
+  height: 100%;
+}
+
+.full-width-height-banner {
+  height: 600px;
+  width: 100%;
+}
+
+.full-width-height-banner img {
+  width: 100%;
+  height: 100%;
+}
+
+.dual-images {
+  height: 600px;
+  width: 80%;
+  margin: 0px;
+  display: flex;
+  padding-left: 125px;
+}
+
+.dual-images .dual-image {
+  width: 50%;
+  height: 100%;
+}
+
+.dual-images .dual-image img {
+  width: 100%;
+  height: 100%;
+}
+
+.four-slider {
+  display: flex;
+  padding-top: 40px;
+  width: 90%;
+  margin: auto;
+}
+
+/* #Slider {
+      display: flex;
+      width: 87%;
+      padding-top: 400px;
+      margin: auto;
+      
+  } */
+
+.four-slider .verti-image {
+  width: 255px;
+  height: 400px;
+  padding-right: 20px;
+}
+
+/* #Slider .verti-image {
+      width: 320px;
+      height: 400px;
+      padding-right: 5px;
+  } */
+
+.four-slider .verti-image img {
+  width: 100%;
+  height: 100%;
+}
+
+/* #Slider .verti-image img {
+      width: 100%;
+      height: 100%;
+  } */
+
+.full-width-banner {
+  width: 100%;
+  height: 200px;
+}
+
+.full-width-banner .full-width img {
+  width: 100%;
+  height: 100%;
+}
+
+.full-width-height-banner {
+  height: 600px;
+  width: 100%;
+}
+
+.full-width-height-banner img {
+  width: 100%;
+  height: 100%;
+}
+
+.four-slider2 {
+  display: flex;
+  padding-top: 40px;
+  width: 90%;
+  margin: auto;
+}
+
+.four-slider2 .verti-image2 {
+  width: 255px;
+  height: 500px;
+  padding-right: 50px;
+}
+
+.four-slider2 .verti-image2 img {
+  width: 100%;
+  height: 100%;
+}
+
+.one-one-banner {
+  width: 90%;
+  height: 800px;
+  display: flex;
+  margin: 0;
+  padding-left: 75px;
+}
+
+.one-one-banner .fimg {
+  height: 100%;
+  width: 50%;
+  padding-right: 10px;
+}
+
+.one-one-banner .fimg img {
+  height: 100%;
+  width: 100%;
+}
+
+.four-slider3 {
+  display: flex;
+  padding-top: 40px;
+  width: 90%;
+  margin: auto;
+}
+
+.four-slider3 .verti-image3 {
+  width: 300px;
+  height: 500px;
+  padding-right: 20px;
+}
+
+.four-slider3 .verti-image3 img {
+  width: 100%;
+  height: 100%;
+}
+
+.three-slider {
+  display: flex;
+  padding-top: 40px;
+  width: 90%;
+  margin: auto;
+}
+
+.three-slider .verti-image4 {
+  width: 400px;
+  height: 600px;
+  padding-right: 20px;
+}
+
+.three-slider .verti-image4 img {
+  width: 100%;
+  height: 100%;
+}
+
+.full-width-banner1 {
+  width: 100%;
+  height: 100px;
+}
+
+.full-width-banner1 .full-width1 img {
+  width: 100%;
+  height: 100%;
+}
+
+.full-width-banner .full-width img {
+  width: 100%;
+  height: 100%;
+}
+
+.seven-blocks {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  padding-top: 40px;
+}
+
+.seven-blocks .s1 {
+  width: 25%;
+  height: 100%;
+}
+
+.seven-blocks .s1 img {
+  width: 100%;
+  height: 100%;
+}
+
+.five-blocks {
+  width: 100%;
+  height: 220px;
+  display: flex;
+}
+
+.five-blocks .f1 {
+  width: 30%;
+  height: 100%;
+}
+
+.five-blocks .f1 img {
+  width: 100%;
+  height: 100%;
+}
+
+#bharatiframe {
+  margin: 0px auto;
+  padding: 0px;
+  width: 100%;
+  height: 720px;
+}
+
+@media (min-width: 1580px) and (max-width: 1920px) {
+  iframe {
+    width: 100%;
+    height: 100%;
+  }
+
+  #bharatiframe {
+    margin: 0px;
+    padding: 0px;
+    width: 1920px;
+    height: 1080px;
+    /* width: 100%;
+      height: 100%; */
+    /* width: calc(100% - 60px); */
+    /* height: calc(100vh - 0px); */
+  }
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+}
+.content-placeholder {
+  width: 100%;
+  height: 600px;
+}
+
+.video-contain {
+  width: 1280px;
+  height: 720px;
+}
+.content-placeholder .vimeo-video {
+  padding: 0px;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.content-placeholder .vimeo-video a {
+  width: 100%;
+  height: 100%;
+}
+
+.vimeo-video iframe {
+  /* position: absolute; */
+  top: 200px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  z-index: 1;
+}
+
+#Slider {
+  display: flex;
+  overflow-x: scroll;
+  gap: 20px;
+  padding-left: 30px;
+  padding-right: 20px;
+  scroll-behavior: smooth;
+  width: 90%;
+  margin-left: 13px;
+  padding-top: 20px;
+}
+
+#Slider1 {
+  display: flex;
+  overflow-x: scroll;
+  gap: 15px;
+  padding-left: 70px;
+  scroll-behavior: smooth;
+  width: 90%;
+  margin: 0px;
+  padding-top: 20px;
+}
+
+#Slider2 {
+  display: flex;
+  overflow-x: scroll;
+  gap: 15px;
+  padding-left: 70px;
+  scroll-behavior: smooth;
+  width: 90%;
+  margin: 0px;
+  padding-top: 20px;
+}
+
+#sliderImgB {
+  width: 310px;
+  height: 400px;
+}
+
+#sliderImgB1 {
+  width: 250px;
+  height: 250px;
+}
+
+#Slider::-webkit-scrollbar {
+  display: none;
+}
+#Slider1::-webkit-scrollbar {
+  display: none;
+}
+#Slider2::-webkit-scrollbar {
+  display: none;
+}
+#i2 {
+  left: 0;
+  margin: 120px 0 0 20px;
+  font-size: 20px;
+  position: absolute;
+  background-color: none;
+}
+#i1 {
+  right: 0;
+  margin: 120px 20px 0 20px;
+  font-size: 20px;
+  position: absolute;
+  background-color: none;
+}
+
+#i4 {
+  left: 0;
+  margin: 120px 0 0 20px;
+  font-size: 20px;
+  position: absolute;
+  background-color: none;
+}
+#i5 {
+  right: 0;
+  margin: 120px 20px 0 20px;
+  font-size: 20px;
+  position: absolute;
+  background-color: none;
+}
+
+#i6 {
+  left: 0;
+  margin: 120px 0 0 20px;
+  font-size: 20px;
+  position: absolute;
+  background-color: none;
+}
+#i7 {
+  right: 0;
+  margin: 120px 20px 0 20px;
+  font-size: 20px;
+  position: absolute;
+  background-color: none;
+}
+
+#Slider2 .control-width p {
+  margin: 0px;
+  font-size: 15px;
+}
+
+#Slider2 .control-width .pq1 {
+  padding-top: 10px;
+}
+
+#Slider2 .control-width .pq2 {
+  padding-top: 10px;
+  margin: 0px;
+  color: red;
+}
+
+#Slider2 .control-width .pq3 {
+  padding-top: 5px;
+  margin: 0px;
+  color: red;
+}
+
+body {
+  font-family: "TT-Norms-Pro", "Open Sans", Helvetica, Arial, sans-serif;
+}

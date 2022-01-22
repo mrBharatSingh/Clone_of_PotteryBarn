@@ -1,0 +1,162 @@
+#sidenav {
+  height: 100%;
+  width: 13%;
+  /* z-index: 1; */
+  top: 0;
+  left: 0;
+  overflow-x: auto;
+  padding-top: 20px;
+  margin-left: 50px;
+  /* border: 2px solid red; */
+}
+
+#div_container {
+  width: 80%;
+}
+
+#furniture_container {
+  display: flex;
+  width: 100%;
+  border: 1px solid black;
+}
+
+#box_Furniture {
+  display: grid;
+  grid-template-columns: repeat(3, 25%);
+  grid-gap: 1%;
+  justify-content: space-between;
+  margin-top: 50px;
+  width: 90%;
+  margin-left: 50px;
+}
+
+.living image {
+  width: 100%;
+}
+
+@media (min-width: 0px) and (max-width: 900px) {
+  #box_Furniture {
+    display: grid;
+    width: 50%;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    grid-gap: 2%;
+    padding: 5px;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1280px) {
+  #sidenav {
+    height: 100%;
+    width: 20%;
+    /* z-index: 1; */
+    top: 0;
+    left: 0;
+    overflow-x: auto;
+    padding-top: 20px;
+    margin-left: 50px;
+    /* border: 2px solid red; */
+  }
+  #box_Furniture {
+    display: grid;
+    width: 95%;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: auto auto auto;
+    grid-gap: 1%;
+    padding: 5px;
+  }
+
+  /* .living,
+    .bedroom,
+    .dining,
+    .office_furniture,
+    .entryway,
+    .SMALL-SPACE,
+    .trending,
+    .Design {
+      border: 2px solid red;
+    } */
+
+  .living img,
+  .bedroom img,
+  .dining img,
+  .office_furniture img,
+  .entryway img,
+  .SMALL-SPACE img,
+  .trending img,
+  .Design img {
+    width: 100%;
+  }
+}
+
+.Furniture_h1 {
+  margin-top: 50px;
+  margin-left: 80px;
+}
+
+.Furniture1_h1 {
+  margin-top: 150px;
+  margin-left: 80px;
+}
+
+#myMenu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myMenu li a {
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+  display: block;
+  font-size: 13px;
+}
+
+#myMenu li a:hover {
+  background-color: #eee;
+}
+
+#top_container img {
+  width: 100%;
+}
+
+#sliderImgA {
+  width: 310px;
+}
+#SliderS {
+  display: flex;
+  overflow-x: scroll;
+  gap: 15px;
+  padding: 20px;
+  scroll-behavior: smooth;
+}
+#SliderS::-webkit-scrollbar {
+  display: none;
+}
+#i2 {
+  left: 250px;
+  margin: 120px 0 0 40px;
+  font-size: 30px;
+  position: absolute;
+  background-color: rgb(150, 145, 145, 0.5);
+}
+#i1 {
+  right: 250px;
+  margin: 120px 40px 0 40px;
+  font-size: 30px;
+  position: absolute;
+  background-color: rgb(150, 145, 145, 0.5);
+}
+#silde_h1 {
+  text-align: center;
+}
+#silde_p {
+  text-align: center;
+  text-decoration: underline;
+}
+#silde_container {
+  padding: 20px;
+  margin-left: 240px;
+  margin-right: 240px;
+}

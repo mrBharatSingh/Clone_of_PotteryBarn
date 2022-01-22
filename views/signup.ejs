@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login | Pottery Barn</title>
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="style/navStyle.css">
+    <link rel="stylesheet" href="style/signup.css">
+</head>
+<nav id="wholeNav">
+
+</nav>
+
+<section>
+    <div id="sign_container">
+        <div id="signin_container">
+            <h1>SIGN IN</h1>
+            <p id="p_id">You can now sign into any of our family of brands using your account! If you don't have an
+                account, create an account.</p>
+            <div id="sign_input">
+                <label for="" id="p_id2">Email*</label>
+                <p id="wrongemail"></p>
+                <input type="email" id="email">
+                <br>
+                <label for="" id="p_id2">Password*</label>
+                <p id="wrongpass"></p>
+                <input type="password" id="pass">
+                <br>
+                <div id="t3">
+                    <input type="checkbox" /><br>
+                    <label id="five">Keep me signed in</label>
+
+                </div>
+            </div>
+            <br>
+            <button id="aaa" onclick="signIn()">SIGN IN</button>
+            <label for="" id="d">Forgot your Password?</label>
+        </div>
+
+        <div id="create_container">
+            <h1>CREATE AN ACCOUNT</h1>
+            <p id="p_id">When you open a Pottery Barn account, you'll be able to checkout faster, save credit cards, and
+                see your order history on any of our family of brands.</p>
+            <p id="p_id">We do not currently support international addresses with our accounts.</p>
+            <p id="p_id1">*Required</p>
+            <div id="create_input">
+                <label for="" id="p_id2">Full Name </label>
+                <p id="wronfname"></p>
+                <input type="text" id="firstname">
+                <br>
+                <label for="" id="p_id2">Email </label>
+                <p id="wronemail"></p>
+                <input type="email" id="email_address">
+                <br>
+                <label for="" id="p_id2">Confirm Email </label>
+                <p id="wronCemail"></p>
+                <input type="email" id="Confirm">
+                <br>
+                <label for="" id="p_id2">Password </label>
+                <p id="wronpass"></p>
+                <input type="password" id="password">
+                <br>
+                <p id="d">Learn More About Secure Passwords.</p>
+                <label for="" id="p_id2">Confirm Password </label>
+                <p id="wronCpass"></p>
+                <input type="password" id="passwordconfirmation">
+                <br>
+                <div id="t3">
+                    <input type="checkbox" /><br>
+                    <label id="five">Keep me signed in</label>
+                </div>
+                <br>
+                <button id="aa" onclick="signUp()">CREATE ACCOUNT</button>
+                <p id="p_id">California residents: can see Financial Incentive Terms for terms and can request Do Not
+                    Sell My Info. Please visit our privacy policy to learn how we use your information.</p>
+                <p id="p_id">If you do not wish to receive promotional emails from us, unsubscribe. Note that it may
+                    take a few days for us to process your request.</p>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<footer id="mainfooter">
+
+</footer>
+
+</html>
+
+<script src="/scripts/nav.js" type="module"></script>
+<script src="/scripts/signup.js"></script>

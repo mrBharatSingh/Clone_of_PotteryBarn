@@ -1,0 +1,357 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+#navTop {
+  padding: 15px 15px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid gray;
+}
+
+#navTop div {
+  display: flex;
+  font-size: 11px;
+  margin: 0px 10px;
+}
+
+#navTop div p {
+  margin-right: 10px;
+}
+
+#navTop div p i {
+  margin: 0px 5px;
+}
+
+#navSecondDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 20px 50px 0px 50px;
+}
+
+#navSearchDiv {
+  display: flex;
+  align-items: flex-end;
+}
+
+#navSearchInput {
+  /* vertical-align: bottom; */
+  border: none;
+  width: 250px;
+  border-bottom: 1px solid black;
+  height: 30px;
+}
+
+#navSearchBtn {
+  border: none;
+  border-bottom: 1px solid black;
+  background-color: white;
+  font-size: 18px;
+  height: 30px;
+}
+
+#navSecondOption {
+  display: flex;
+  text-align: center;
+}
+
+#navSecondOption div {
+  margin-left: 15px;
+}
+
+#navSecondOption div {
+  font-size: 19px;
+}
+
+#navSecondOption div p {
+  margin-top: 5px;
+  font-size: 11px;
+}
+#potteryLogo {
+  /* width: 50%; */
+  width: 550px;
+  height: 60px;
+  margin: auto;
+}
+#navThirdDiv {
+  margin-top: 20px;
+  border-bottom: 1px solid gray;
+}
+
+#navThirdDivMenu {
+  display: flex;
+  margin: auto;
+  width: fit-content;
+
+  position: relative;
+}
+
+#navThirdDiv div p {
+  margin-right: 20px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+#navThirdDivMenu p {
+  padding: 15px 10px;
+}
+
+#navThirdDivMenu p:hover {
+  border-bottom: 2px solid gray;
+}
+
+#navFourthDiv {
+  border-bottom: 1px solid gray;
+}
+
+#navFourthDiv1 {
+  display: flex;
+  margin: auto;
+  width: fit-content;
+
+  position: relative;
+}
+
+#navFourthDiv1 p {
+  margin-right: 20px;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 15px 0px;
+}
+
+#navFourthDiv1 p:hover {
+  border-bottom: 2px solid gray;
+}
+
+#navSecondHover {
+  margin-top: 10px;
+  padding: 20px;
+  /* line-height: 30px; */
+  position: absolute;
+  width: 100%;
+  background-color: white;
+  display: none;
+  z-index: 1;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  cursor: pointer;
+}
+
+#navSecondHoverBox {
+  display: flex;
+  width: fit-content;
+  margin: auto;
+}
+
+#navSecondHoverBox div {
+  margin-right: 25px;
+  width: 175px;
+  font-size: 10px;
+}
+
+#navSecondHoverBox div img {
+  width: 175px;
+  height: 218px;
+}
+#navSecondHoverBox div img ~ p {
+  font-size: 10px;
+}
+#navSecondHoverBox div .navheadBold {
+  font-size: 14px;
+}
+.navheadBold {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.navlineHeight {
+  line-height: 30px;
+}
+
+#navFourthHover {
+  margin-top: 5px;
+  padding: 20px;
+  display: none;
+  position: absolute;
+  background-color: white;
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#navFourthDiv:hover #navFourthHover {
+  display: block;
+}
+
+#navFourthHoverBox {
+  display: flex;
+  width: fit-content;
+  /* justify-content: space-around; */
+  margin: auto;
+}
+#navFourthHoverBox1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+#navFourthHoverBox1 div {
+  width: 150px;
+  margin-right: 30px;
+}
+
+#navFourthHoverBox1 div ul li {
+  list-style: none;
+}
+#navFourthHoverBox1 div ul li a {
+  text-decoration: none;
+  color: #010101;
+  font-size: 14px;
+  line-height: 25px;
+}
+
+#navFourthHoverBox2 {
+  width: 150px;
+  border-left: 1px solid gray;
+  padding-left: 20px;
+}
+
+#navFourthHoverBox2 ul li {
+  list-style: none;
+}
+#navFourthHoverBox2 ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  line-height: 25px;
+}
+
+.boldnav {
+  font-weight: bold;
+  /* padding: 10px 0px; */
+}
+
+.navforthImgDiv {
+  border: 1px solid teal;
+  height: fit-content;
+  line-height: 18px;
+}
+.navforthImg {
+  width: 100%;
+}
+.navforthImgDiv p {
+  font-size: 14px;
+}
+
+.navSaleimg {
+  width: 100%;
+}
+
+#navFourthHoverBox1 #navSaleimgDiv {
+  width: 280px;
+}
+
+#mainfooter {
+  padding: 50px 0px 25px 0px;
+  font-size: 14px;
+  background-color: #e6e3de;
+  width: 100%;
+}
+#footerContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+}
+#footerBox2,
+#footerBox3,
+#footerBox4 {
+  padding-left: 50px;
+}
+
+#footerContainer div ul li {
+  list-style: none;
+  line-height: 30px;
+}
+
+#footerContainer div p {
+  line-height: 30px;
+}
+
+#footerinput {
+  margin: 10px 0px;
+  padding-left: 10px;
+  height: 40px;
+  width: 230px;
+  border: 2px solid #d0d0d0;
+  border-right: none;
+}
+#footerSignBtn {
+  margin: 10px 0px;
+  height: 43px;
+  width: 100px;
+  font-size: 20px;
+  vertical-align: top;
+  background-color: black;
+  color: white;
+  border: none;
+}
+#footerUl {
+  margin-top: 20px;
+}
+
+#footerBold {
+  font-weight: bold;
+  font-size: 14px;
+}
+#footerBoldff {
+  margin-top: 50px;
+  font-weight: bold;
+  font-size: 14px;
+}
+#footerBox4Icons {
+  display: flex;
+}
+
+#footerBox4Icons p {
+  display: flex;
+  margin: 10px;
+  color: white;
+  font-size: 16px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+#loginPopul {
+  border-top: 2px solid black;
+  width: 130px;
+  padding: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  display: none;
+  background-color: white;
+  z-index: 3;
+  position: absolute;
+}
+
+#loginPopul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+
+#loginPopul li :hover {
+  border-bottom: 1px solid gray;
+}
+
+#loginPopul li {
+  list-style: none;
+  line-height: 30px;
+}
+#loginPopdiv:hover #loginPopul {
+  display: block;
+}

@@ -1,0 +1,179 @@
+#Container {
+  display: grid;
+  grid-template-columns: repeat(3, 32%);
+  gap: 15px;
+  padding: 10px;
+  justify-content: center;
+}
+
+img {
+  width: 400px;
+}
+
+#colors {
+  display: flex;
+  gap: 7px;
+  margin-top: 8px;
+}
+
+#img1 {
+  width: 30px;
+  height: 30px;
+  border: 2px solid rgb(206, 201, 201);
+  border-radius: 5%;
+}
+
+#img2 {
+  width: 30px;
+  height: 30px;
+  border: 2px solid rgb(206, 201, 201);
+  border-radius: 5%;
+}
+
+#img3 {
+  width: 30px;
+  height: 30px;
+  border: 2px solid rgb(206, 201, 201);
+  border-radius: 5%;
+}
+
+#img4 {
+  width: 30px;
+  height: 30px;
+  border: 2px solid rgb(206, 201, 201);
+  border-radius: 5%;
+}
+
+#innerT {
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#text {
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+#text:hover {
+  text-decoration: underline;
+}
+
+#price {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#sliderImgB {
+  width: 307px;
+}
+
+#moreT {
+  background-color: black;
+  color: white;
+  padding: 1px 6px;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#i5 {
+  margin: 130px 40px 0px 0px;
+  float: "\f191";
+  font-size: 40px;
+  color: rgba(7, 7, 7, 0.7);
+  background-color: rgba(255, 255, 255, 0.5);
+  right: 0;
+  position: absolute;
+  border-radius: 10%;
+}
+
+#i6 {
+  margin: 130px 40px 0px 40px;
+  float: "\f191";
+  font-size: 40px;
+  color: rgba(7, 7, 7, 0.7);
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 10%;
+  left: 0;
+  position: absolute;
+}
+
+#i1 {
+  margin: 130px 40px 0px 0px;
+  float: "\f191";
+  font-size: 40px;
+  color: rgba(7, 7, 7, 0.7);
+  background-color: rgba(255, 255, 255, 0.5);
+  right: 0;
+  position: absolute;
+  border-radius: 10%;
+}
+
+#i2 {
+  margin: 130px 40px 0px 40px;
+  float: "\f191";
+  font-size: 40px;
+  color: rgba(7, 7, 7, 0.7);
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 10%;
+  left: 0;
+  position: absolute;
+}
+
+#hrSlider2 {
+  display: flex;
+  overflow-x: scroll;
+  gap: 15px;
+  margin-top: 20px;
+  scroll-behavior: smooth;
+}
+
+#hrSlider2::-webkit-scrollbar {
+  display: none;
+}
+
+#hrSlider23 {
+  display: flex;
+  overflow-x: scroll;
+  gap: 15px;
+  margin-top: 20px;
+  scroll-behavior: smooth;
+}
+
+#hrSlider23::-webkit-scrollbar {
+  display: none;
+}
+
+#LastSlider {
+  padding: 10px;
+  margin-top: 20px;
+}
+
+#related {
+  display: flex;
+  padding: 10px;
+  margin-top: 100px;
+}
+
+#box1 {
+  width: 20%;
+  font-size: 14px;
+}
+
+#box1 p:hover {
+  text-decoration: underline;
+}
+
+#box2 {
+  width: 80%;
+  font-size: 14px;
+}
+
+body {
+  font-family: sans-serif;
+}

@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart | Pottery Barn</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="style/navStyle.css">
+    <link rel="stylesheet" href="style/checkout.css">
+</head>
+<nav>
+    <div id="checkoutnavbar">
+        <p id="navcheckdot">.</p>
+        <img src="https://assets.pbimgs.com/pbimgs/ab/images/i/202143/0031/images/checkout/svg/logoDesktop.svg" alt=""
+            id="secondlogo">
+        <div id="checkoutCart"><i class="fas fa-shopping-cart"></i>
+            <p id="CartIconP">Cart(0)</p>
+        </div>
+    </div>
+</nav>
+
+<section>
+    <div id="checkoutContainer">
+        <div id="addbox">
+            <h1>1. Shipping</h1>
+            <div id="addMainBox">
+                <div id="homeSelect">
+                    <div id="radiodiv">
+                        <div>
+                            <input type="radio" id="shipToAddRadio">
+                        </div>
+                        <div>
+                            <p><b>Ship to Address</b></p>
+                            <p>Have your items shipped to your selected address</p>
+                        </div>
+
+
+                    </div>
+                    <div id="radiodiv">
+                        <div>
+                            <input type="radio" id="shipToLocRadio">
+                        </div>
+                        <div>
+                            <p><i class="fab fa-ups" id="cups"></i><b>Ship to a
+                                    Location near you</b></p>
+                            <p>Have your items shipped to a UPS Access Point</p>
+                        </div>
+
+
+                    </div>
+                </div>
+                <div id="checkoutShopAdd">
+                    <h3>Shipping Address</h3>
+                    <p>Ship to multiple addresses</p>
+                </div>
+                <div id="CheckoutAddressInputDiv">
+                    <p id="wfullname"></p>
+                    <input type="text" placeholder="Full Name" id="cfullname">
+                    <p id="waddress"></p>
+                    <input type="text" placeholder="Address" id="cAddress">
+                    <input type="text" placeholder="Apt,Suite,building (Optional)">
+                    <p id="wpin"></p>
+                    <div id="CheckoutAddressInputDiv1">
+                        <input type="text" placeholder="City" id="cCity">
+                        <select name="state" id="checkoutState">
+                            <option value="state">State</option>
+                            <option value="Andhra Pradesh">Andhra Pradesh</option>
+                            <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                            <option value="Assam">Assam</option>
+                            <option value="Bihar">Bihar</option>
+                            <option value="Chhattisgarh">Chhattisgarh</option>
+                            <option value="Goa  Panaji">Goa Panaji</option>
+                            <option value="Gujarat">Gujarat</option>
+                            <option value="Haryana">Haryana</option>
+                            <option value="Himachal Pradesh">Himachal Pradesh</option>
+                            <option value="Jharkhand">Jharkhand</option>
+                            <option value="Karnataka">Karnataka</option>
+                            <option value="Kerala">Kerala</option>
+                            <option value="Madhya Pradesh">Madhya Pradesh</option>
+                            <option value="Maharashtra">Maharashtra</option>
+                            <option value="Manipur">Manipur</option>
+                            <option value="Meghalaya">Meghalaya</option>
+                            <option value="Mizoram">Mizoram</option>
+                            <option value="Nagaland">Nagaland</option>
+                            <option value="Odisha">Odisha</option>
+                            <option value="Punjab">Punjab</option>
+                            <option value="Rajasthan">Rajasthan</option>
+                            <option value="Sikkim">Sikkim</option>
+                            <option value="Tamil Nadu">Tamil Nadu</option>
+                            <option value="Telangana">Telangana</option>
+                            <option value="Tripura">Tripura</option>
+                            <option value="Uttar Pradesh">Uttar Pradesh</option>
+                            <option value="Uttarakhand">Uttarakhand</option>
+                            <option value="West Bengal">West Bengal</option>
+
+                        </select>
+                        <input type="text" placeholder="ZIP" id="czip">
+                    </div>
+                    <p id="wphone"></p>
+                    <input type="text" placeholder="Phohe" id="cphone">
+
+                </div>
+                <div id="checkoutCboxDiv">
+                    <div>
+                        <input type="checkbox" id="checkoutCheck"><label for="checkoutCheck">Use this address as my
+                            billing
+                            information</label>
+                    </div>
+                </div>
+                <div id="checkoutButtonDiv"> <button id="CheckoutAddConti">Continue</button></div>
+
+            </div>
+
+
+
+            <h1>2. Delivery & Gift Options</h1>
+            <div id="addMainBox1">
+                <div id="displaypp"></div>
+
+
+                <div id="checkoutButtonDiv"> <button id="CheckoutAddConti1">Continue</button></div>
+
+            </div>
+
+
+
+            <h1>3. Payment</h1>
+            <div id="addMainBox2">
+                <div id="billingAdd">
+                    <p class="ph3 ">Billing Address</p>
+                    <div>
+                        <p></p>
+                    </div>
+                    <p>Edit</p>
+                </div>
+
+                <div id="promoCodeinputDiv">
+                    <h3 id="promoCodeinputH3">Promo Code +</h3>
+                    <div id="promoCodeinputDivINP"><input type="text" placeholder="Promo"> <button>Apply</button></div>
+                </div>
+
+                <div id="cuponCodeinputDiv">
+                    <h3 id="checkoutApply">Apply Gift Cards and Rewards +</h3>
+                    <div id="checkoutApplyDiv"> <input type="text" id="cuponCodeinput0"
+                            placeholder="Enter Card or Reward Number"> <input type="text" id="cuponCodeinput1"
+                            placeholder="PIN">
+                        <button>Apply</button>
+                    </div>
+                </div>
+
+                <div>
+                    <h3 id="checkPP">Payment Options</h3>
+                    <div id="checkPayment">
+                        <div id="checkPaymentRDiv"><input type="radio" id="radioxyx" name="checkoutRadio">
+                            <label for="radioxyx">
+                                <p for="radioxyx">Credit Card</p>
+                            </label>
+
+                        </div>
+                        <div id="checkPaymentRDiv"><input type="radio" id="radioxyx1" name="checkoutRadio">
+                            <label for="radioxyx1"><img
+                                    src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png"
+                                    alt=""></label>
+                        </div>
+                        <div id="checkPaymentRDiv"><input type="radio" id="radioxyx2" name="checkoutRadio">
+                            <label for="radioxyx2"><img
+                                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Affirm_logo.svg/1200px-Affirm_logo.svg.png"
+                                    alt="" class="checkPaymentRDivimg"></label>
+                        </div>
+
+                    </div>
+                    <p id="wrondcard"></p>
+                    <div id="CardNoDiv">
+                        <input type="text" placeholder="Credit Card Number" id="cCardNo">
+                        <img src="https://img.icons8.com/color/40/000000/visa.png" /><img
+                            src="https://img.icons8.com/color/40/000000/mastercard-logo.png" /><img
+                            src="https://img.icons8.com/color/40/000000/amex.png" /><img
+                            src="https://img.icons8.com/color/40/000000/discover.png" />
+                    </div>
+                    <div id="checkoutCVVdiv">
+                        <input type="text" placeholder="Expiration MM/YY" id="checkoutExp">
+                        <input type="text" placeholder="CVN" id="checkoutCVV">
+                    </div>
+
+                    <div id="checkoutCboxDiv">
+                        <div>
+                            <input type="checkbox" id="checkoutCheck2"><label for="checkoutCheck">
+                                Save this as my default credit card</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="CheckoutEarnProme">
+                    <div>
+                        <p class="ph3">Earn Key Rewards
+                        <p>
+                        <p>Learn more</p>
+                    </div>
+                    <p>Already a Key Rewards Member?</p>
+                </div>
+
+                <div id="joinblackDiv">
+                    <p>Free membership with 2% back in rewards when you shop at any of our family of brands.</p>
+                    <div id="joinblackDiv1">
+                        <div><input type="checkbox"></div>
+                        <div>
+                            <h3>Join The Key Rewards</h3>
+                            <p>By joining The Key Rewards, you agree to its Terms and Conditions.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="checkoutInfoDiv">
+                    <h3>Contact Information</h3>
+                    <p>A receipt will be sent to the email provided.</p>
+                </div>
+                <div id="checkoutMaildiv">
+                    <input type="text">
+                    <p>If you do not wish to receive promotional emails from us, unsubscribe. It may take 72 hours to
+                        process your request.
+
+                        By</p>
+                </div>
+                <p id="pppp1">By placing an order, you are agreeing to our Privacy Policy and Terms of Use.</p>
+                <div id="checkoutButtonDiv"> <button id="CheckoutAddConti2">Place Order</button></div>
+
+            </div>
+        </div>
+
+
+
+        <div id="csummaryBox">
+            <h1>Order Summary</h1>
+            <p id="yourItem">Your Order (2 Items)</p>
+            <div></div>
+            <div>
+                <div id="summaryFlex1">
+                    <p>Subtotal</p>
+                    <p><b id="finalPrice">$0</b></p>
+                </div>
+                <div id="summaryFlex">
+                    <p>Shipping & Processing</p>
+                    <p><b>TBD</b></p>
+                </div>
+                <div id="summaryFlex">
+                    <p>Tax</p>
+                    <p><b>TBD</b></p>
+                </div>
+                <div id="summaryFlex1">
+                    <p><b>Total</b></p>
+                    <p><b id="finalPrice1">$698</b></p>
+                </div>
+            </div>
+            <div id="summaryimgOff">
+                <div id="summaryimgOff1"><img
+                        src="https://assets.pbimgs.com/pbimgs/ab/images/i/202144/0006/images/checkout/credit_card.png"
+                        alt="">
+                    <p>
+                        Apply for the Pottery Barn Key Rewards Credit Card</p>
+                </div>
+
+                <p>- Earn 5% back in rewards on purchases across our collection of brands.1</p>
+                <p>- Earn double rewards for the first 30 days.3 Learn More</p>
+
+                <div>
+                    <button>APPLY NOW </button>
+                </div>
+
+            </div>
+            <div id="summaryTnC">
+                <p>1 Rewards earnings are subject to the Gold Key Rewards Terms and Credit Card Terms in the Customer
+                    Agreement.</p>
+                <p>3 New customers earn an additional 5% back in rewards (10% back total) for purchases made at
+                    Williams-Sonoma, Inc. brands during the first 30 days from account opening.</p>
+                <p>For Important Rate, Fee, and other Cost information select Terms and Conditions. Credit card offers
+                    are subject to credit approval.Pottery Barn Accounts are issued by Capital One.</p>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+</section>
+
+
+
+
+</html>
+
+<script src="/scripts/checkout.js"></script>
