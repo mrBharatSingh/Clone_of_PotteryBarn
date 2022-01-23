@@ -251,3 +251,22 @@ function cartTlength() {
   cartlen.textContent = "Cart(" + cartArrdataxx.length + ")";
 }
 cartTlength();
+
+var fistdivClick = document.getElementById("navThirdDiv");
+
+fistdivClick.onclick = () => {
+  window.location.href = "furniture";
+};
+
+var fist1divClick = document.getElementById("navSecondHover");
+console.log(fist1divClick, "helllo");
+
+fist1divClick.onclick = () => {
+  window.location.href = "furniture";
+};
+
+var secondDivClick = document.getElementById("navFourthDiv");
+
+secondDivClick.onclick = () => {
+  window.location.href = "furniture";
+};

@@ -459,96 +459,96 @@ function furniture() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Living Room Furniture</a></li>
-                <li><a href="">Sofa & Sectional Collections</a></li>
-                <li><a href="">Sofa & Sectional Collections</a></li>
-                <li><a href="">Sectionals</a></li>
-                <li><a href="">Sofas & Loveseats</a></li>
-                <li><a href="">Sleeper Sofas</a></li>
-                <li><a href="">Chairs</a></li>
-                <li><a href="">Leather Furniture</a></li>
-                <li><a href="">Coffee Tables</a></li>
-                <li><a href="">Console Tables</a></li>
-                <li><a href="">End & Side Tables</a></li>
-                <li><a href="">Ottomans & Benches</a></li>
-                <li><a href="">TV Stands & Media</a></li>
-                <li><a href="">All Living Room Furniture</a></li>
+                <li><a href="furniture" class="boldnav">Living Room Furniture</a></li>
+                <li><a href="furniture">Sofa & Sectional Collections</a></li>
+                <li><a href="furniture">Sofa & Sectional Collections</a></li>
+                <li><a href="furniture">Sectionals</a></li>
+                <li><a href="furniture">Sofas & Loveseats</a></li>
+                <li><a href="furniture">Sleeper Sofas</a></li>
+                <li><a href="furniture">Chairs</a></li>
+                <li><a href="furniture">Leather Furniture</a></li>
+                <li><a href="furniture">Coffee Tables</a></li>
+                <li><a href="furniture">Console Tables</a></li>
+                <li><a href="furniture">End & Side Tables</a></li>
+                <li><a href="furniture">Ottomans & Benches</a></li>
+                <li><a href="furniture">TV Stands & Media</a></li>
+                <li><a href="furniture">All Living Room Furniture</a></li>
 
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Bedroom Furniture</a></li>
-                <li><a href="">Bedroom Collections</a></li>
-                <li><a href="">Beds & Headboards</a></li>
-                <li><a href="">Dressers & Armoires</a></li>
-                <li><a href="">Nightstands</a></li>
-                <li><a href="">Mattresses & Foundations</a></li>
-                <li><a href="">Ottomans & Benches</a></li>
-                <li><a href="">All Bedroom Furniture</a></li>
+                <li><a href="furniture" class="boldnav">Bedroom Furniture</a></li>
+                <li><a href="furniture">Bedroom Collections</a></li>
+                <li><a href="furniture">Beds & Headboards</a></li>
+                <li><a href="furniture">Dressers & Armoires</a></li>
+                <li><a href="furniture">Nightstands</a></li>
+                <li><a href="furniture">Mattresses & Foundations</a></li>
+                <li><a href="furniture">Ottomans & Benches</a></li>
+                <li><a href="furniture">All Bedroom Furniture</a></li>
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Dining & Kitchen Furniture</a></li>
-                <li><a href="">Dining Collections</a></li>
-                <li><a href="">Dining Tables</a></li>
-                <li><a href="">Dining Chairs</a></li>
-                <li><a href="">Bar & Counter Stools</a></li>
-                <li><a href="">Dining Benches & Banquettes</a></li>
-                <li><a href="">Buffets & Sideboards</a></li>
-                <li><a href="">Bar Carts & Cabinets</a></li>
-                <li><a href="">All Dining Furniture</a></li>
-                <li><a href="" class="boldnav">Home Office Furniture</a></li>
-                <li><a href="">Home Office Collections</a></li>
-                <li><a href="">Desks</a></li>
-                <li><a href="">Desk Chairs</a></li>
-                <li><a href="">Bookcases & Shelves</a></li>
-                <li><a href="">File Cabinets</a></li>
-                <li><a href="">Storage Cabinets</a></li>
-                <li><a href="">All Home Office Furniture</a></li>
+                <li><a href="furniture" class="boldnav">Dining & Kitchen Furniture</a></li>
+                <li><a href="furniture">Dining Collections</a></li>
+                <li><a href="furniture">Dining Tables</a></li>
+                <li><a href="furniture">Dining Chairs</a></li>
+                <li><a href="furniture">Bar & Counter Stools</a></li>
+                <li><a href="furniture">Dining Benches & Banquettes</a></li>
+                <li><a href="furniture">Buffets & Sideboards</a></li>
+                <li><a href="furniture">Bar Carts & Cabinets</a></li>
+                <li><a href="furniture">All Dining Furniture</a></li>
+                <li><a href="furniture" class="boldnav">Home Office Furniture</a></li>
+                <li><a href="furniture">Home Office Collections</a></li>
+                <li><a href="furniture">Desks</a></li>
+                <li><a href="furniture">Desk Chairs</a></li>
+                <li><a href="furniture">Bookcases & Shelves</a></li>
+                <li><a href="furniture">File Cabinets</a></li>
+                <li><a href="furniture">Storage Cabinets</a></li>
+                <li><a href="furniture">All Home Office Furniture</a></li>
 
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Entryway Furniture</a></li>
-                <li><a href="">All Entryway</a></li>
-                <li><a href="">Small-Space Furniture</a></li>
-                <li><a href="">All Small Spaces</a></li>
-                <li><a href="">More Rooms</a></li>
-                <li><a href="">Game Room</a></li>
-                <li><a href="">Bathroom Furniture</a></li>
-                <li><a href="">Sale & Clearance</a></li>
-                <li><a href="">Up to 40% Off Ready-To-Ship Furniture</a></li>
-                <li><a href=""></a>20% Off Humanscale Desks</li>
-                <li><a href="">20% Off Electric Fireplaces</a></li>
+                <li><a href="furniture" class="boldnav">Entryway Furniture</a></li>
+                <li><a href="furniture">All Entryway</a></li>
+                <li><a href="furniture">Small-Space Furniture</a></li>
+                <li><a href="furniture">All Small Spaces</a></li>
+                <li><a href="furniture">More Rooms</a></li>
+                <li><a href="furniture">Game Room</a></li>
+                <li><a href="furniture">Bathroom Furniture</a></li>
+                <li><a href="furniture">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 40% Off Ready-To-Ship Furniture</a></li>
+                <li><a href="furniture"></a>20% Off Humanscale Desks</li>
+                <li><a href="furniture">20% Off Electric Fireplaces</a></li>
 
             </ul>
         </div>
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Warm Wood Finishes</a></li>
-            <li><a href="">Upholstered Beds</a></li>
-            <li><a href="">Woven & Rattan Furniture</a></li>
-            <li><a href="">Swivel Seating</a></li>
-            <li><a href="">Design Resources</a></li>
-            <li><a href="">Dining Table Buying Guide</a></li>
-            <li><a href="">Contract Grade Furniture</a></li>
-            <li><a href="">Fabric & Leather Guide</a></li>
-            <li><a href="">Free Fabric Swatches</a></li>
-            <li><a href="">Free Leather Swatches</a></li>
-            <li><a href="">Wood Swatches</a></li>
-            <li><a href="">Shop Our Family Of Brands</a></li>
-            <li><a href="">PB Apartment Furniture</a></li>
-            <li><a href="">Pottery Barn Kids Furniture</a></li>
-            <li><a href="">Pottery Barn Teen Furniture</a></li>
-            <li><a href="">West Elm Furniture</a></li>
-            <li><a href="">Williams Sonoma Home Furnitur</a></li>
-            <li><a href="">Rejuvenation Furniture</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Warm Wood Finishes</a></li>
+            <li><a href="furniture">Upholstered Beds</a></li>
+            <li><a href="furniture">Woven & Rattan Furniture</a></li>
+            <li><a href="furniture">Swivel Seating</a></li>
+            <li><a href="furniture">Design Resources</a></li>
+            <li><a href="furniture">Dining Table Buying Guide</a></li>
+            <li><a href="furniture">Contract Grade Furniture</a></li>
+            <li><a href="furniture">Fabric & Leather Guide</a></li>
+            <li><a href="furniture">Free Fabric Swatches</a></li>
+            <li><a href="furniture">Free Leather Swatches</a></li>
+            <li><a href="furniture">Wood Swatches</a></li>
+            <li><a href="furniture">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">PB Apartment Furniture</a></li>
+            <li><a href="furniture">Pottery Barn Kids Furniture</a></li>
+            <li><a href="furniture">Pottery Barn Teen Furniture</a></li>
+            <li><a href="furniture">West Elm Furniture</a></li>
+            <li><a href="furniture">Williams Sonoma Home Furnitur</a></li>
+            <li><a href="furniture">Rejuvenation Furniture</a></li>
 
         </ul>
     </div>
@@ -560,105 +560,105 @@ function outdoor() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Outdoor Furniture Collections</a></li>
-                <li><a href="">Shop All Collections</a></li>
-                <li><a href="" class="boldnav">Outdoor Lounge & Accent Furniture</a></li>
-                <li><a href="">Sectionals</a></li>
-                <li><a href="">Sofas & Loveseats</a></li>
-                <li><a href="">Lounge Chairs & Ottomans</a></li>
-                <li><a href="">Chaises & Daybeds</a></li>
-                <li><a href="">Coffee & Side Tables</a></li>
-                <li><a href="">Consoles, Utility & Storage</a></li>
-                <li><a href="">All Outdoor Lounge & Accent</a></li>
-                <li><a href="" class="boldnav">Outdoor Dining, Bar & Kitchen Furniture</a></li>
-                <li><a href="">Dining Tables</a></li>
-                <li><a href="">Dining Chairs & Benches</a></li>
-                <li><a href="">Dining Table + Chair Pairings</a></li>
-                <li><a href="">Outdoor Kitchen</a></li>
-                <li><a href="">Barstools & Counter Stools</a></li>
-                <li><a href="">Bars, Buffets & Bar Carts</a></li>
-                <li><a href="">All Outdoor Dining Furniture</a></li>
+                <li><a href="furniture" class="boldnav">Outdoor Furniture Collections</a></li>
+                <li><a href="furniture">Shop All Collections</a></li>
+                <li><a href="furniture" class="boldnav">Outdoor Lounge & Accent Furniture</a></li>
+                <li><a href="furniture">Sectionals</a></li>
+                <li><a href="furniture">Sofas & Loveseats</a></li>
+                <li><a href="furniture">Lounge Chairs & Ottomans</a></li>
+                <li><a href="furniture">Chaises & Daybeds</a></li>
+                <li><a href="furniture">Coffee & Side Tables</a></li>
+                <li><a href="furniture">Consoles, Utility & Storage</a></li>
+                <li><a href="furniture">All Outdoor Lounge & Accent</a></li>
+                <li><a href="furniture" class="boldnav">Outdoor Dining, Bar & Kitchen Furniture</a></li>
+                <li><a href="furniture">Dining Tables</a></li>
+                <li><a href="furniture">Dining Chairs & Benches</a></li>
+                <li><a href="furniture">Dining Table + Chair Pairings</a></li>
+                <li><a href="furniture">Outdoor Kitchen</a></li>
+                <li><a href="furniture">Barstools & Counter Stools</a></li>
+                <li><a href="furniture">Bars, Buffets & Bar Carts</a></li>
+                <li><a href="furniture">All Outdoor Dining Furniture</a></li>
 
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Small Space Outdoor Furniture</a></li>
-                <li><a href="">Lounge & Accent</a></li>
-                <li><a href="">Dining</a></li>
-                <li><a href="">All Small Space</a></li>
-                <li><a href="" class="boldnav">Outdoor Decor & Accessories</a></li>
-                <li><a href="">Umbrellas & Stands</a></li>
-                <li><a href="">Fire Pits & Patio Heaters</a></li>
-                <li><a href="">Replacement Cushions</a></li>
-                <li><a href="">Furniture Covers & Care</a></li>
-                <li><a href="">Outdoor Pillows</a></li>
-                <li><a href="">High Performance Indoor/Outdoor Rugs</a></li>
-                <li><a href="">Outdoor Curtains</a></li>
-                <li><a href="">Outdoor Storage</a></li>
-                <li><a href="">Pool & Beach Towels</a></li>
-                <li><a href="">Pool & Beach Accessories</a></li>
-                <li><a href="">Outdoor Games & Recreation</a></li>
-                <li><a href="">All Outdoor Decor & Accessories</a></li>
+                <li><a href="furniture" class="boldnav">Small Space Outdoor Furniture</a></li>
+                <li><a href="furniture">Lounge & Accent</a></li>
+                <li><a href="furniture">Dining</a></li>
+                <li><a href="furniture">All Small Space</a></li>
+                <li><a href="furniture" class="boldnav">Outdoor Decor & Accessories</a></li>
+                <li><a href="furniture">Umbrellas & Stands</a></li>
+                <li><a href="furniture">Fire Pits & Patio Heaters</a></li>
+                <li><a href="furniture">Replacement Cushions</a></li>
+                <li><a href="furniture">Furniture Covers & Care</a></li>
+                <li><a href="furniture">Outdoor Pillows</a></li>
+                <li><a href="furniture">High Performance Indoor/Outdoor Rugs</a></li>
+                <li><a href="furniture">Outdoor Curtains</a></li>
+                <li><a href="furniture">Outdoor Storage</a></li>
+                <li><a href="furniture">Pool & Beach Towels</a></li>
+                <li><a href="furniture">Pool & Beach Accessories</a></li>
+                <li><a href="furniture">Outdoor Games & Recreation</a></li>
+                <li><a href="furniture">All Outdoor Decor & Accessories</a></li>
 
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Outdoor Lighting</a></li>
-                <li><a href="">Pendants, Flush Mounts & Sconces</a></li>
-                <li><a href="">Ceiling Fans</a></li>
-                <li><a href="">String Lights</a></li>
-                <li><a href="">Lanterns</a></li>
-                <li><a href="">All Outdoor Lighting</a></li>
-                <li><a href="" class="boldnav">Front Door Decor & Hardware</a></li>
-                <li><a href="">Wreaths & Garlands</a></li>
-                <li><a href="">Doormats</a></li>
-                <li><a href="">Outdoor Hardware</a></li>
-                <li><a href="">All Front Door Decorating</a></li>
+                <li><a href="furniture" class="boldnav">Outdoor Lighting</a></li>
+                <li><a href="furniture">Pendants, Flush Mounts & Sconces</a></li>
+                <li><a href="furniture">Ceiling Fans</a></li>
+                <li><a href="furniture">String Lights</a></li>
+                <li><a href="furniture">Lanterns</a></li>
+                <li><a href="furniture">All Outdoor Lighting</a></li>
+                <li><a href="furniture" class="boldnav">Front Door Decor & Hardware</a></li>
+                <li><a href="furniture">Wreaths & Garlands</a></li>
+                <li><a href="furniture">Doormats</a></li>
+                <li><a href="furniture">Outdoor Hardware</a></li>
+                <li><a href="furniture">All Front Door Decorating</a></li>
 
 
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Garden & Planters</a></li>
-                <li><a href="">Planters</a></li>
-                <li><a href="">Plant Stands</a></li>
-                <li><a href="">Gardening Tools & Watering</a></li>
-                <li><a href="">Garden Decor & Fountains</a></li>
-                <li><a href="">Plants</a></li>
-                <li><a href="">All Garden</a></li>
-                <li><a href="" class="boldnav">Outdoor Dining & Entertaining</a></li>
-                <li><a href="">Dinnerware</a></li>
-                <li><a href="">Serveware</a></li>
-                <li><a href="">Drinkware</a></li>
-                <li><a href="">All Outdoor Dining & Entertaining</a></li>
-                <li><a href="" class="boldnav">Sale & Clearance</a></li>
-                <li><a href="">Up to 80% Off Outdoor & Garden</a></li>
-                <li><a href="">All</a></li>
+                <li><a href="furniture" class="boldnav">Garden & Planters</a></li>
+                <li><a href="furniture">Planters</a></li>
+                <li><a href="furniture">Plant Stands</a></li>
+                <li><a href="furniture">Gardening Tools & Watering</a></li>
+                <li><a href="furniture">Garden Decor & Fountains</a></li>
+                <li><a href="furniture">Plants</a></li>
+                <li><a href="furniture">All Garden</a></li>
+                <li><a href="furniture" class="boldnav">Outdoor Dining & Entertaining</a></li>
+                <li><a href="furniture">Dinnerware</a></li>
+                <li><a href="furniture">Serveware</a></li>
+                <li><a href="furniture">Drinkware</a></li>
+                <li><a href="furniture">All Outdoor Dining & Entertaining</a></li>
+                <li><a href="furniture" class="boldnav">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 80% Off Outdoor & Garden</a></li>
+                <li><a href="furniture">All</a></li>
 
             </ul>
         </div>
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Fire Pits & Fire Tables</a></li>
-            <li><a href="">Space Saving Outdoor Furniture</a></li>
-            <li><a href="">All-Weather Wicker Woven Furniture</a></li>
-            <li><a href="">Slipcovered Outdoor Furniture</a></li>
-            <li><a href="">Outdoor Covers & Cleaners</a></li>
-            <li><a href="" class="boldnav">Design Resources</a></li>
-            <li><a href="">Holiday Front Doors</a></li>
-            <li><a href="">Contract Grade Outdoor</a></li>
-            <li><a href="">Free Outdoor Fabric Swatches</a></li>
-            <li><a href="">Outdoor Furniture Swatches</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">West Elm Outdoor</a></li>
-            <li><a href="">Williams Sonoma Home Outdoor</a></li>
-            <li><a href="">Rejuvenation Outdoor</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Fire Pits & Fire Tables</a></li>
+            <li><a href="furniture">Space Saving Outdoor Furniture</a></li>
+            <li><a href="furniture">All-Weather Wicker Woven Furniture</a></li>
+            <li><a href="furniture">Slipcovered Outdoor Furniture</a></li>
+            <li><a href="furniture">Outdoor Covers & Cleaners</a></li>
+            <li><a href="furniture" class="boldnav">Design Resources</a></li>
+            <li><a href="furniture">Holiday Front Doors</a></li>
+            <li><a href="furniture">Contract Grade Outdoor</a></li>
+            <li><a href="furniture">Free Outdoor Fabric Swatches</a></li>
+            <li><a href="furniture">Outdoor Furniture Swatches</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">West Elm Outdoor</a></li>
+            <li><a href="furniture">Williams Sonoma Home Outdoor</a></li>
+            <li><a href="furniture">Rejuvenation Outdoor</a></li>
 
         </ul>
     </div>
@@ -670,15 +670,15 @@ function bedding() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Bedding by Category</a></li>
-                <li><a href="">Duvet Covers</a></li>
-                <li><a href="">Quilts & Coverlets</a></li>
-                <li><a href="">Comforters</a></li>
-                <li><a href="">Sheets</a></li>
-                <li><a href="">Pillowcases & Shams</a></li>
-                <li><a href="">Bedding Essentials</a></li>
-                <li><a href="">Blankets & Throws</a></li>
-                <li><a href="">All Bedding</a></li>
+                <li><a href="furniture" class="boldnav">Bedding by Category</a></li>
+                <li><a href="furniture">Duvet Covers</a></li>
+                <li><a href="furniture">Quilts & Coverlets</a></li>
+                <li><a href="furniture">Comforters</a></li>
+                <li><a href="furniture">Sheets</a></li>
+                <li><a href="furniture">Pillowcases & Shams</a></li>
+                <li><a href="furniture">Bedding Essentials</a></li>
+                <li><a href="furniture">Blankets & Throws</a></li>
+                <li><a href="furniture">All Bedding</a></li>
 
 
 
@@ -686,38 +686,38 @@ function bedding() {
         </div>
         <div>
             <ul>
-                <li><a href="">Bedding Essentials</a></li>
-                <li><a href="">Pillow Inserts</a></li>
-                <li><a href="">Duvet Inserts</a></li>
-                <li><a href="">Bed Skirts & Daybed Covers</a></li>
-                <li><a href="">Mattress Pads & Toppers</a></li>
-                <li><a href="">Mattresses & Foundations</a></li>
-                <li><a href="">All Bedding Essentials</a></li>
+                <li><a href="furniture">Bedding Essentials</a></li>
+                <li><a href="furniture">Pillow Inserts</a></li>
+                <li><a href="furniture">Duvet Inserts</a></li>
+                <li><a href="furniture">Bed Skirts & Daybed Covers</a></li>
+                <li><a href="furniture">Mattress Pads & Toppers</a></li>
+                <li><a href="furniture">Mattresses & Foundations</a></li>
+                <li><a href="furniture">All Bedding Essentials</a></li>
 
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Outdoor Lighting</a></li>
-                <li><a href="">Bedding by Fabric</a></li>
-                <li><a href="">Linen Bedding</a></li>
-                <li><a href="">Velvet Bedding</a></li>
-                <li><a href="">Cotton Bedding</a></li>
-                <li><a href="">TENCEL™ Bedding</a></li>
-                <li><a href="">Percale Bedding</a></li>
-                <li><a href="">Sateen Bedding</a></li>
+                <li><a href="furniture" class="boldnav">Outdoor Lighting</a></li>
+                <li><a href="furniture">Bedding by Fabric</a></li>
+                <li><a href="furniture">Linen Bedding</a></li>
+                <li><a href="furniture">Velvet Bedding</a></li>
+                <li><a href="furniture">Cotton Bedding</a></li>
+                <li><a href="furniture">TENCEL™ Bedding</a></li>
+                <li><a href="furniture">Percale Bedding</a></li>
+                <li><a href="furniture">Sateen Bedding</a></li>
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="">Bedding by Color</a></li>
-                <li><a href="">White Bedding</a></li>
-                <li><a href="">Neutral Bedding</a></li>
-                <li><a href="">Gray Bedding</a></li>
-                <li><a href="">Blue Bedding</a></li>
-                <li><a href="">Red Bedding</a></li>
-                <li><a href="" class="boldnav">Sale & Clearance</a></li>
-                <li><a href="">Up to 70% Off Bedding</a></li>
+                <li><a href="furniture">Bedding by Color</a></li>
+                <li><a href="furniture">White Bedding</a></li>
+                <li><a href="furniture">Neutral Bedding</a></li>
+                <li><a href="furniture">Gray Bedding</a></li>
+                <li><a href="furniture">Blue Bedding</a></li>
+                <li><a href="furniture">Red Bedding</a></li>
+                <li><a href="furniture" class="boldnav">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 70% Off Bedding</a></li>
 
 
             </ul>
@@ -725,22 +725,22 @@ function bedding() {
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Holiday Bedding</a></li>
-            <li><a href="">Best-Selling Belgian Flax Linen</a></li>
-            <li><a href="">Cozy Faux Fur</a></li>
-            <li><a href="">The All-White Bed</a></li>
-            <li><a href="">Dream Bedding Collection</a></li>
-            <li><a href="" class="boldnav">Design Resources</a></li>
-            <li><a href="">Holiday Bedding Looks</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">Pottery Barn Baby & Kids Bedding</a></li>
-            <li><a href="">Pottery Barn Teen Bedding</a></li>
-            <li><a href="">Pottery Barn Dorm Bedding</a></li>
-            <li><a href="">West Elm Bedding</a></li>
-            <li><a href="">Williams Sonoma Home Bedding</a></li>
-            <li><a href="">Rejuvenation Bedding</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Holiday Bedding</a></li>
+            <li><a href="furniture">Best-Selling Belgian Flax Linen</a></li>
+            <li><a href="furniture">Cozy Faux Fur</a></li>
+            <li><a href="furniture">The All-White Bed</a></li>
+            <li><a href="furniture">Dream Bedding Collection</a></li>
+            <li><a href="furniture" class="boldnav">Design Resources</a></li>
+            <li><a href="furniture">Holiday Bedding Looks</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">Pottery Barn Baby & Kids Bedding</a></li>
+            <li><a href="furniture">Pottery Barn Teen Bedding</a></li>
+            <li><a href="furniture">Pottery Barn Dorm Bedding</a></li>
+            <li><a href="furniture">West Elm Bedding</a></li>
+            <li><a href="furniture">Williams Sonoma Home Bedding</a></li>
+            <li><a href="furniture">Rejuvenation Bedding</a></li>
 
         </ul>
     </div>
@@ -752,14 +752,14 @@ function bath() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Bath Linens</a></li>
-                <li><a href="">Bath Towels</a></li>
-                <li><a href="">Bath Mats</a></li>
-                <li><a href="">Bath Bundles</a></li>
-                <li><a href="">Shower Curtains</a></li>
-                <li><a href="">Robes, Slippers & Pajamas</a></li>
-                <li><a href="">Beach Towels</a></li>
-                <li><a href="">All Bath Linens</a></li>
+                <li><a href="furniture" class="boldnav">Bath Linens</a></li>
+                <li><a href="furniture">Bath Towels</a></li>
+                <li><a href="furniture">Bath Mats</a></li>
+                <li><a href="furniture">Bath Bundles</a></li>
+                <li><a href="furniture">Shower Curtains</a></li>
+                <li><a href="furniture">Robes, Slippers & Pajamas</a></li>
+                <li><a href="furniture">Beach Towels</a></li>
+                <li><a href="furniture">All Bath Linens</a></li>
 
 
 
@@ -768,52 +768,52 @@ function bath() {
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Bathroom Accessories</a></li>
-                <li><a href="">Countertop Accessories</a></li>
-                <li><a href="">Wastebaskets & Hampers</a></li>
-                <li><a href="">Baskets & Bins</a></li>
-                <li><a href="">All Bathroom Accessories</a></li>
-                <li><a href="" class="boldnav">Wellness & Personal Care</a></li>
-                <li><a href="">Soaps, Sanitizers & Lotions</a></li>
-                <li><a href="">Cosmetic & Toiletry Bags</a></li>
-                <li><a href="">Face Masks & Beauty</a></li>
-                <li><a href="">All Self-Care Essentials</a></li>
+                <li><a href="furniture" class="boldnav">Bathroom Accessories</a></li>
+                <li><a href="furniture">Countertop Accessories</a></li>
+                <li><a href="furniture">Wastebaskets & Hampers</a></li>
+                <li><a href="furniture">Baskets & Bins</a></li>
+                <li><a href="furniture">All Bathroom Accessories</a></li>
+                <li><a href="furniture" class="boldnav">Wellness & Personal Care</a></li>
+                <li><a href="furniture">Soaps, Sanitizers & Lotions</a></li>
+                <li><a href="furniture">Cosmetic & Toiletry Bags</a></li>
+                <li><a href="furniture">Face Masks & Beauty</a></li>
+                <li><a href="furniture">All Self-Care Essentials</a></li>
 
 
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Bathroom Furniture</a></li>
-                <li><a href="">Bathroom Vanities</a></li>
-                <li><a href="">Floor Storage, Cabinets & Stools</a></li>
-                <li><a href="">Wall Shelves</a></li>
-                <li><a href="">All Bathroom Furniture</a></li>
-                <li><a href="" class="boldnav">Mirrors & Medicine Cabinets</a></li>
-                <li><a href="">Medicine Cabinets</a></li>
-                <li><a href="">All Mirrors & Medicine Cabinets</a></li>
-                <li><a href="" class="boldnav">Bathroom Lighting</a></li>
-                <li><a href="">Flush Mounts</a></li>
-                <li><a href="">All Bathroom Lighting</a></li>
+                <li><a href="furniture" class="boldnav">Bathroom Furniture</a></li>
+                <li><a href="furniture">Bathroom Vanities</a></li>
+                <li><a href="furniture">Floor Storage, Cabinets & Stools</a></li>
+                <li><a href="furniture">Wall Shelves</a></li>
+                <li><a href="furniture">All Bathroom Furniture</a></li>
+                <li><a href="furniture" class="boldnav">Mirrors & Medicine Cabinets</a></li>
+                <li><a href="furniture">Medicine Cabinets</a></li>
+                <li><a href="furniture">All Mirrors & Medicine Cabinets</a></li>
+                <li><a href="furniture" class="boldnav">Bathroom Lighting</a></li>
+                <li><a href="furniture">Flush Mounts</a></li>
+                <li><a href="furniture">All Bathroom Lighting</a></li>
 
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Bathroom Collections</a></li>
-                <li><a href="">Hardware, Faucet & Lighting Collections</a></li>
-                <li><a href="" class="boldnav">Hardware</a></li>
-                <li><a href="">Bathroom Hardware</a></li>
-                <li><a href="">Cabinet Hardware</a></li>
-                <li><a href="">Hooks</a></li>
-                <li><a href="">All Hardware</a></li>
-                <li><a href="" class="boldnav">Faucets, Plumbing & Bathtubs</a></li>
-                <li><a href="">Sink Faucets</a></li>
-                <li><a href="">Shower Sets & Bathtub Faucets</a></li>
-                <li><a href="">Supply Lines, Drains, & Levers</a></li>
-                <li><a href="">Bathtubs</a></li>
-                <li><a href="" class="boldnav">Sale & Clearance</a></li>
-                <li><a href="">Up to 70% Off Bath</a></li>
+                <li><a href="furniture" class="boldnav">Bathroom Collections</a></li>
+                <li><a href="furniture">Hardware, Faucet & Lighting Collections</a></li>
+                <li><a href="furniture" class="boldnav">Hardware</a></li>
+                <li><a href="furniture">Bathroom Hardware</a></li>
+                <li><a href="furniture">Cabinet Hardware</a></li>
+                <li><a href="furniture">Hooks</a></li>
+                <li><a href="furniture">All Hardware</a></li>
+                <li><a href="furniture" class="boldnav">Faucets, Plumbing & Bathtubs</a></li>
+                <li><a href="furniture">Sink Faucets</a></li>
+                <li><a href="furniture">Shower Sets & Bathtub Faucets</a></li>
+                <li><a href="furniture">Supply Lines, Drains, & Levers</a></li>
+                <li><a href="furniture">Bathtubs</a></li>
+                <li><a href="furniture" class="boldnav">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 70% Off Bath</a></li>
 
 
 
@@ -822,20 +822,20 @@ function bath() {
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Organic Bath Linens</a></li>
-            <li><a href="">Gifts of Self-Care</a></li>
-            <li><a href="">Brass Accents</a></li>
-            <li><a href="" class="boldnav">Design Resources</a></li>
-            <li><a href="">Contract Grade Bath</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">Pottery Barn Baby & Kids Bath</a></li>
-            <li><a href="">Pottery Barn Teen Bath</a></li>
-            <li><a href="">Pottery Barn Dorm Bath</a></li>
-            <li><a href="">West Elm Bath</a></li>
-            <li><a href="">Williams Sonoma Home Bath</a></li>
-            <li><a href="">Mark Graham Bath</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Organic Bath Linens</a></li>
+            <li><a href="furniture">Gifts of Self-Care</a></li>
+            <li><a href="furniture">Brass Accents</a></li>
+            <li><a href="furniture" class="boldnav">Design Resources</a></li>
+            <li><a href="furniture">Contract Grade Bath</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">Pottery Barn Baby & Kids Bath</a></li>
+            <li><a href="furniture">Pottery Barn Teen Bath</a></li>
+            <li><a href="furniture">Pottery Barn Dorm Bath</a></li>
+            <li><a href="furniture">West Elm Bath</a></li>
+            <li><a href="furniture">Williams Sonoma Home Bath</a></li>
+            <li><a href="furniture">Mark Graham Bath</a></li>
 
 
         </ul>
@@ -848,52 +848,52 @@ function rugs() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Rugs by Category</a></li>
-                <li><a href="">All Rugs</a></li>
-                <li><a href="">Area Rugs</a></li>
-                <li><a href="">Hallway Runners</a></li>
-                <li><a href="">Round Rugs</a></li>
-                <li><a href="">Indoor/Outdoor Rugs</a></li>
-                <li><a href="">Custom Rugs</a></li>
-                <li><a href="">Doormats</a></li>
-                <li><a href="">Kitchen & Entryway Mats</a></li>
-                <li><a href="">Bath Mats</a></li>
-                <li><a href="">Rug Pads</a></li>
+                <li><a href="furniture" class="boldnav">Rugs by Category</a></li>
+                <li><a href="furniture">All Rugs</a></li>
+                <li><a href="furniture">Area Rugs</a></li>
+                <li><a href="furniture">Hallway Runners</a></li>
+                <li><a href="furniture">Round Rugs</a></li>
+                <li><a href="furniture">Indoor/Outdoor Rugs</a></li>
+                <li><a href="furniture">Custom Rugs</a></li>
+                <li><a href="furniture">Doormats</a></li>
+                <li><a href="furniture">Kitchen & Entryway Mats</a></li>
+                <li><a href="furniture">Bath Mats</a></li>
+                <li><a href="furniture">Rug Pads</a></li>
 
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Rugs by Material</a></li>
-                <li><a href="">Natural Fiber Rugs</a></li>
-                <li><a href="">Wool Rugs</a></li>
-                <li><a href="">High Performance Rugs</a></li>
-                <li><a href="">Sheepskin & Hide Rugs</a></li>
+                <li><a href="furniture" class="boldnav">Rugs by Material</a></li>
+                <li><a href="furniture">Natural Fiber Rugs</a></li>
+                <li><a href="furniture">Wool Rugs</a></li>
+                <li><a href="furniture">High Performance Rugs</a></li>
+                <li><a href="furniture">Sheepskin & Hide Rugs</a></li>
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Rugs by Style</a></li>
-                <li><a href="">Neutral Textured Rugs</a></li>
-                <li><a href="">Shag Rugs</a></li>
-                <li><a href="">Persian-Style Rugs</a></li>
-                <li><a href="">Vintage-Inspired Rugs</a></li>
-                <li><a href="">Patterned Rugs</a></li>
-                <li><a href="">Solid Rugs</a></li>
-                <li><a href="">Hand-Knotted Rugs</a></li>
+                <li><a href="furniture" class="boldnav">Rugs by Style</a></li>
+                <li><a href="furniture">Neutral Textured Rugs</a></li>
+                <li><a href="furniture">Shag Rugs</a></li>
+                <li><a href="furniture">Persian-Style Rugs</a></li>
+                <li><a href="furniture">Vintage-Inspired Rugs</a></li>
+                <li><a href="furniture">Patterned Rugs</a></li>
+                <li><a href="furniture">Solid Rugs</a></li>
+                <li><a href="furniture">Hand-Knotted Rugs</a></li>
             </ul>
 
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Rugs by Color</a></li>
-                <li><a href="">Ivory Rugs</a></li>
-                <li><a href="">Neutral Rugs</a></li>
-                <li><a href="">Gray Rugs</a></li>
-                <li><a href="">Blue Rugs</a></li>
-                <li><a href="">Multi Rugs</a></li>
-                <li><a href="" class="boldnav">Sale & Clearance</a></li>
-                <li><a href="">Up to 50% Off Rugs</a></li>
+                <li><a href="furniture" class="boldnav">Rugs by Color</a></li>
+                <li><a href="furniture">Ivory Rugs</a></li>
+                <li><a href="furniture">Neutral Rugs</a></li>
+                <li><a href="furniture">Gray Rugs</a></li>
+                <li><a href="furniture">Blue Rugs</a></li>
+                <li><a href="furniture">Multi Rugs</a></li>
+                <li><a href="furniture" class="boldnav">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 50% Off Rugs</a></li>
             </ul>
 
             </ul>
@@ -901,19 +901,19 @@ function rugs() {
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Cozy Sweater Knit Rugs</a></li>
-            <li><a href="">High Performance, Easy Care Rugs</a></li>
-            <li><a href="">Holiday Doormats</a></li>
-            <li><a href="" class="boldnav">Design Resources</a></li>
-            <li><a href="">The Right Size Rug</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">Pottery Barn Baby & Kids Rugs</a></li>
-            <li><a href="">Pottery Barn Teen Rugs</a></li>
-            <li><a href="">West Elm Rugs</a></li>
-            <li><a href="">Williams Sonoma Home Rugs</a></li>
-            <li><a href="">Rejuvenation Rugs</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Cozy Sweater Knit Rugs</a></li>
+            <li><a href="furniture">High Performance, Easy Care Rugs</a></li>
+            <li><a href="furniture">Holiday Doormats</a></li>
+            <li><a href="furniture" class="boldnav">Design Resources</a></li>
+            <li><a href="furniture">The Right Size Rug</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">Pottery Barn Baby & Kids Rugs</a></li>
+            <li><a href="furniture">Pottery Barn Teen Rugs</a></li>
+            <li><a href="furniture">West Elm Rugs</a></li>
+            <li><a href="furniture">Williams Sonoma Home Rugs</a></li>
+            <li><a href="furniture">Rejuvenation Rugs</a></li>
         </ul>
     </div>
 </div>`;
@@ -924,13 +924,13 @@ function windows() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Curtains & Shades</a></li>
-                <li><a href="">All Curtains</a></li>
-                <li><a href="">Blackout Curtains</a></li>
-                <li><a href="">Sheer Curtains</a></li>
-                <li><a href="">Outdoor Curtains</a></li>
-                <li><a href="">Shades</a></li>
-                <li><a href="">All Window Treatments</a></li>
+                <li><a href="furniture" class="boldnav">Curtains & Shades</a></li>
+                <li><a href="furniture">All Curtains</a></li>
+                <li><a href="furniture">Blackout Curtains</a></li>
+                <li><a href="furniture">Sheer Curtains</a></li>
+                <li><a href="furniture">Outdoor Curtains</a></li>
+                <li><a href="furniture">Shades</a></li>
+                <li><a href="furniture">All Window Treatments</a></li>
 
 
 
@@ -938,10 +938,10 @@ function windows() {
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Hardware</a></li>
-                <li><a href="">All Curtain Hardware</a></li>
-                <li><a href="" class="boldnav">Sale & Clearance</a></li>
-                <li><a href="">Up to 60% Off Windows</a></li>
+                <li><a href="furniture" class="boldnav">Hardware</a></li>
+                <li><a href="furniture">All Curtain Hardware</a></li>
+                <li><a href="furniture" class="boldnav">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 60% Off Windows</a></li>
 
             </ul>
         </div>
@@ -950,20 +950,20 @@ function windows() {
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Blackout, Noise-Reducing Curtains</a></li>
-            <li><a href="">Luxe Linen Curtains</a></li>
-            <li><a href="">Brass Curtain Hardware</a></li>
-            <li><a href="">Best-Selling Emery Collection</a></li>
-            <li><a href="">Velvet Curtains</a></li>
-            <li><a href="" class="boldnav">Design Resources</a></li>
-            <li><a href="">Free Curtain Swatches</a></li>
-            <li><a href="">How to Style Your Windows</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">Pottery Barn Baby & Kids Windows</a></li>
-            <li><a href="">Pottery Barn Teen Windows</a></li>
-            <li><a href="">West Elm Windows</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Blackout, Noise-Reducing Curtains</a></li>
+            <li><a href="furniture">Luxe Linen Curtains</a></li>
+            <li><a href="furniture">Brass Curtain Hardware</a></li>
+            <li><a href="furniture">Best-Selling Emery Collection</a></li>
+            <li><a href="furniture">Velvet Curtains</a></li>
+            <li><a href="furniture" class="boldnav">Design Resources</a></li>
+            <li><a href="furniture">Free Curtain Swatches</a></li>
+            <li><a href="furniture">How to Style Your Windows</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">Pottery Barn Baby & Kids Windows</a></li>
+            <li><a href="furniture">Pottery Barn Teen Windows</a></li>
+            <li><a href="furniture">West Elm Windows</a></li>
 
         </ul>
     </div>
@@ -975,47 +975,47 @@ function lighting() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Ceiling</a></li>
-                <li><a href="">Chandeliers</a></li>
-                <li><a href="">Pendants</a></li>
-                <li><a href="">Flush Mounts</a></li>
-                <li><a href="">Ceiling Fans</a></li>
-                <li><a href="">All Ceiling Lighting</a></li>
+                <li><a href="furniture" class="boldnav">Ceiling</a></li>
+                <li><a href="furniture">Chandeliers</a></li>
+                <li><a href="furniture">Pendants</a></li>
+                <li><a href="furniture">Flush Mounts</a></li>
+                <li><a href="furniture">Ceiling Fans</a></li>
+                <li><a href="furniture">All Ceiling Lighting</a></li>
 
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Table & Floor Lamps</a></li>
-                <li><a href="">Table & Desk Lamps</a></li>
-                <li><a href="">Floor Lamps</a></li>
-                <li><a href="">All Lamps</a></li>
-                <li><a href="" class="boldnav">Wall</a></li>
-                <li><a href="">Sconces</a></li>
-                <li><a href="" class="boldnav">Outdoor</a></li>
-                <li><a href="">Pendants, Flush Mounts & Sconces</a></li>
-                <li><a href="">Ceiling Fans</a></li>
-                <li><a href="">String Lights & Lanterns</a></li>
-                <li><a href="">All Outdoor Lighting</a></li>
-                <li><a href="">Curtains</a></li>
+                <li><a href="furniture" class="boldnav">Table & Floor Lamps</a></li>
+                <li><a href="furniture">Table & Desk Lamps</a></li>
+                <li><a href="furniture">Floor Lamps</a></li>
+                <li><a href="furniture">All Lamps</a></li>
+                <li><a href="furniture" class="boldnav">Wall</a></li>
+                <li><a href="furniture">Sconces</a></li>
+                <li><a href="furniture" class="boldnav">Outdoor</a></li>
+                <li><a href="furniture">Pendants, Flush Mounts & Sconces</a></li>
+                <li><a href="furniture">Ceiling Fans</a></li>
+                <li><a href="furniture">String Lights & Lanterns</a></li>
+                <li><a href="furniture">All Outdoor Lighting</a></li>
+                <li><a href="furniture">Curtains</a></li>
             </ul>
         </div>
 
         <div>
             <ul>
-                <li><a href="" class="boldnav">Bathroom Lighting</a></li>
-                <li><a href="">Sconces</a></li>
-                <li><a href="">Flush Mounts</a></li>
-                <li><a href="">All Bathroom Lighting</a></li>
-                <li><a href="" class="boldnav">Shades & Accessories</a></li>
-                <li><a href="">Lamp Shades</a></li>
-                <li><a href="">Light Bulbs</a></li>
-                <li><a href="">All Shades & Accessories</a></li>
-                <li><a href="" class="boldnav">All Lighting</a></li>
-                <li><a href="">Lighting Collections</a></li>
-                <li><a href="">Shop All Lighting</a></li>
-                <li><a href="" class="boldnav">Sale & Clearance</a></li>
-                <li><a href="">Up to 30% Off Lighting</a></li>
+                <li><a href="furniture" class="boldnav">Bathroom Lighting</a></li>
+                <li><a href="furniture">Sconces</a></li>
+                <li><a href="furniture">Flush Mounts</a></li>
+                <li><a href="furniture">All Bathroom Lighting</a></li>
+                <li><a href="furniture" class="boldnav">Shades & Accessories</a></li>
+                <li><a href="furniture">Lamp Shades</a></li>
+                <li><a href="furniture">Light Bulbs</a></li>
+                <li><a href="furniture">All Shades & Accessories</a></li>
+                <li><a href="furniture" class="boldnav">All Lighting</a></li>
+                <li><a href="furniture">Lighting Collections</a></li>
+                <li><a href="furniture">Shop All Lighting</a></li>
+                <li><a href="furniture" class="boldnav">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 30% Off Lighting</a></li>
 
 
             </ul>
@@ -1026,21 +1026,21 @@ function lighting() {
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Recycled Glass</a></li>
-            <li><a href="">Woven & Rattan</a></li>
-            <li><a href="">Alabaster & Marble</a></li>
-            <li><a href="">Clay & Ceramic</a></li>
-            <li><a href="">Mixed Materials</a></li>
-            <li><a href="" class="boldnav">Design Resources</a></li>
-            <li><a href="">The Lighting Buying Guide</a></li>
-            <li><a href="">Contract Grade Lighting</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">Pottery Barn Kids Lighting</a></li>
-            <li><a href="">Pottery Barn Teen Lighting</a></li>
-            <li><a href="">West Elm Lighting</a></li>
-            <li><a href="">Williams Sonoma Home Lighting</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Recycled Glass</a></li>
+            <li><a href="furniture">Woven & Rattan</a></li>
+            <li><a href="furniture">Alabaster & Marble</a></li>
+            <li><a href="furniture">Clay & Ceramic</a></li>
+            <li><a href="furniture">Mixed Materials</a></li>
+            <li><a href="furniture" class="boldnav">Design Resources</a></li>
+            <li><a href="furniture">The Lighting Buying Guide</a></li>
+            <li><a href="furniture">Contract Grade Lighting</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">Pottery Barn Kids Lighting</a></li>
+            <li><a href="furniture">Pottery Barn Teen Lighting</a></li>
+            <li><a href="furniture">West Elm Lighting</a></li>
+            <li><a href="furniture">Williams Sonoma Home Lighting</a></li>
 
 
 
@@ -1054,81 +1054,81 @@ function pillows() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Pillows, Throws & Poufs</a></li>
-                <li><a href="">Pillows</a></li>
-                <li><a href="">Pillow Inserts</a></li>
-                <li><a href="">Outdoor Pillows</a></li>
-                <li><a href="">Perfect Pillow Pairings</a></li>
-                <li><a href="">Throws</a></li>
-                <li><a href="">Poufs & Bean Bags</a></li>
-                <li><a href="">Faux Fur Pillows & Throws</a></li>
-                <li><a href="">All Pillows, Throws & Poufs</a></li>
-                <li><a href="">Candlelight & Home Fragrance</a></li>
-                <li><a href="" class="boldnav">Candles & Home Fragrance</a></li>
-                <li><a href="">Candleholders</a></li>
-                <li><a href="">Lanterns</a></li>
-                <li><a href="">String Lights</a></li>
-                <li><a href="">Lit Decor</a></li>
-                <li><a href="">All Candlelight & Home Fragrance</a></li>
+                <li><a href="furniture" class="boldnav">Pillows, Throws & Poufs</a></li>
+                <li><a href="furniture">Pillows</a></li>
+                <li><a href="furniture">Pillow Inserts</a></li>
+                <li><a href="furniture">Outdoor Pillows</a></li>
+                <li><a href="furniture">Perfect Pillow Pairings</a></li>
+                <li><a href="furniture">Throws</a></li>
+                <li><a href="furniture">Poufs & Bean Bags</a></li>
+                <li><a href="furniture">Faux Fur Pillows & Throws</a></li>
+                <li><a href="furniture">All Pillows, Throws & Poufs</a></li>
+                <li><a href="furniture">Candlelight & Home Fragrance</a></li>
+                <li><a href="furniture" class="boldnav">Candles & Home Fragrance</a></li>
+                <li><a href="furniture">Candleholders</a></li>
+                <li><a href="furniture">Lanterns</a></li>
+                <li><a href="furniture">String Lights</a></li>
+                <li><a href="furniture">Lit Decor</a></li>
+                <li><a href="furniture">All Candlelight & Home Fragrance</a></li>
             </ul>
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Frames</a></li>
-                <li><a href="">Picture Frames</a></li>
-                <li><a href="">Gallery Wall Frames</a></li>
-                <li><a href="">All Frames</a></li>
-                <li><a href="" class="boldnav">Room Decor</a></li>
-                <li><a href="">Vases</a></li>
-                <li><a href="">Artisanal Rustic Vases</a></li>
-                <li><a href="">Baskets</a></li>
-                <li><a href="">Decorative Objects</a></li>
-                <li><a href="">Decorative Trays & Bowls</a></li>
-                <li><a href="">Clocks</a></li>
-                <li><a href="">Coffee Table Books</a></li>
-                <li><a href="">All Room Decor</a></li>
+                <li><a href="furniture" class="boldnav">Frames</a></li>
+                <li><a href="furniture">Picture Frames</a></li>
+                <li><a href="furniture">Gallery Wall Frames</a></li>
+                <li><a href="furniture">All Frames</a></li>
+                <li><a href="furniture" class="boldnav">Room Decor</a></li>
+                <li><a href="furniture">Vases</a></li>
+                <li><a href="furniture">Artisanal Rustic Vases</a></li>
+                <li><a href="furniture">Baskets</a></li>
+                <li><a href="furniture">Decorative Objects</a></li>
+                <li><a href="furniture">Decorative Trays & Bowls</a></li>
+                <li><a href="furniture">Clocks</a></li>
+                <li><a href="furniture">Coffee Table Books</a></li>
+                <li><a href="furniture">All Room Decor</a></li>
 
             </ul>
         </div>
 
         <div>
             <ul>
-                <li><a href="" class="boldnav">Botanicals</a></li>
-                <li><a href="">Floral Stems & Branches</a></li>
-                <li><a href="">Plants & Trees</a></li>
-                <li><a href="">Wreaths & Garlands</a></li>
-                <li><a href="">All Plants & Flowers</a></li>
-                <li><a href="" class="boldnav">Planters & Plant Stands</a></li>
-                <li><a href="">Planters</a></li>
-                <li><a href="">Plant Stands</a></li>
-                <li><a href="" class="boldnav">Hearth & Fireplace</a></li>
-                <li><a href="">Fireplace Screens</a></li>
-                <li><a href="">Fireplace Tools</a></li>
-                <li><a href="">Log Racks & Holders</a></li>
-                <li><a href="">Electric Fireplaces</a></li>
-                <li><a href="">All Hearth</a></li>
+                <li><a href="furniture" class="boldnav">Botanicals</a></li>
+                <li><a href="furniture">Floral Stems & Branches</a></li>
+                <li><a href="furniture">Plants & Trees</a></li>
+                <li><a href="furniture">Wreaths & Garlands</a></li>
+                <li><a href="furniture">All Plants & Flowers</a></li>
+                <li><a href="furniture" class="boldnav">Planters & Plant Stands</a></li>
+                <li><a href="furniture">Planters</a></li>
+                <li><a href="furniture">Plant Stands</a></li>
+                <li><a href="furniture" class="boldnav">Hearth & Fireplace</a></li>
+                <li><a href="furniture">Fireplace Screens</a></li>
+                <li><a href="furniture">Fireplace Tools</a></li>
+                <li><a href="furniture">Log Racks & Holders</a></li>
+                <li><a href="furniture">Electric Fireplaces</a></li>
+                <li><a href="furniture">All Hearth</a></li>
             </ul>
         </div>
 
 
         <div>
             <ul>
-                <li><a href="" class="boldnav">Home Accessories</a></li>
-                <li><a href="">Electronics & Tech Accessories</a></li>
-                <li><a href="">Table & Floor Fans</a></li>
-                <li><a href="">Pet Accessories</a></li>
-                <li><a href="">Games & Entertainment</a></li>
-                <li><a href="" class="boldnav">Cabinet Hardware</a></li>
-                <li><a href="">Cabinet Knobs</a></li>
-                <li><a href="">Drawer Pulls</a></li>
-                <li><a href="">All Cabinet Hardware</a></li>
-                <li><a href="" class="boldnav">Holidays</a></li>
-                <li><a href="">Halloween Decor</a></li>
-                <li><a href="">Thanksgiving Decor</a></li>
-                <li><a href="">Christmas Decor</a></li>
-                <li><a href="" class="boldnav">Sale & Clearance</a></li>
-                <li><a href="">Up to 50% Off Pillows & Throws</a></li>
-                <li><a href="">Up to 70% Off Room Decor</a></li>
+                <li><a href="furniture" class="boldnav">Home Accessories</a></li>
+                <li><a href="furniture">Electronics & Tech Accessories</a></li>
+                <li><a href="furniture">Table & Floor Fans</a></li>
+                <li><a href="furniture">Pet Accessories</a></li>
+                <li><a href="furniture">Games & Entertainment</a></li>
+                <li><a href="furniture" class="boldnav">Cabinet Hardware</a></li>
+                <li><a href="furniture">Cabinet Knobs</a></li>
+                <li><a href="furniture">Drawer Pulls</a></li>
+                <li><a href="furniture">All Cabinet Hardware</a></li>
+                <li><a href="furniture" class="boldnav">Holidays</a></li>
+                <li><a href="furniture">Halloween Decor</a></li>
+                <li><a href="furniture">Thanksgiving Decor</a></li>
+                <li><a href="furniture">Christmas Decor</a></li>
+                <li><a href="furniture" class="boldnav">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 50% Off Pillows & Throws</a></li>
+                <li><a href="furniture">Up to 70% Off Room Decor</a></li>
 
             </ul>
         </div>
@@ -1138,21 +1138,21 @@ function pillows() {
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Glowing Decor</a></li>
-            <li><a href="">Cozy Faux Fur</a></li>
-            <li><a href="">Whimsical Pillows</a></li>
-            <li><a href="">Gnome Sweet Gnome</a></li>
-            <li><a href="">Winter Botanicals</a></li>
-            <li><a href="" class="boldnav">Design Resources</a></li>
-            <li><a href="">Holiday Pillow Pairings</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">Pottery Barn Kids Decor</a></li>
-            <li><a href="">Pottery Barn Teen Decor</a></li>
-            <li><a href="">West Elm Pillows & Decor</a></li>
-            <li><a href="">Williams Sonoma Home Decor</a></li>
-            <li><a href="">Williams Sonoma Home Pillows</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Glowing Decor</a></li>
+            <li><a href="furniture">Cozy Faux Fur</a></li>
+            <li><a href="furniture">Whimsical Pillows</a></li>
+            <li><a href="furniture">Gnome Sweet Gnome</a></li>
+            <li><a href="furniture">Winter Botanicals</a></li>
+            <li><a href="furniture" class="boldnav">Design Resources</a></li>
+            <li><a href="furniture">Holiday Pillow Pairings</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">Pottery Barn Kids Decor</a></li>
+            <li><a href="furniture">Pottery Barn Teen Decor</a></li>
+            <li><a href="furniture">West Elm Pillows & Decor</a></li>
+            <li><a href="furniture">Williams Sonoma Home Decor</a></li>
+            <li><a href="furniture">Williams Sonoma Home Pillows</a></li>
         </ul>
     </div>
 </div>`;
@@ -1163,66 +1163,66 @@ function mirrors() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Mirrors</a></li>
-                <li><a href="">Wall Mirrors</a></li>
-                <li><a href="">Floor Mirrors</a></li>
-                <li><a href="">All Mirrors</a></li>
-                <li><a href="" class="boldnav">Art by Type</a></li>
-                <li><a href="">Paintings</a></li>
-                <li><a href="">Photography</a></li>
-                <li><a href="">Drawings</a></li>
-                <li><a href="">Typography</a></li>
-                <li><a href="">Dimensional Art</a></li>
-                <li><a href="">Wall Art Sets</a></li>
-                <li><a href="">All Art</a></li>
+                <li><a href="furniture" class="boldnav">Mirrors</a></li>
+                <li><a href="furniture">Wall Mirrors</a></li>
+                <li><a href="furniture">Floor Mirrors</a></li>
+                <li><a href="furniture">All Mirrors</a></li>
+                <li><a href="furniture" class="boldnav">Art by Type</a></li>
+                <li><a href="furniture">Paintings</a></li>
+                <li><a href="furniture">Photography</a></li>
+                <li><a href="furniture">Drawings</a></li>
+                <li><a href="furniture">Typography</a></li>
+                <li><a href="furniture">Dimensional Art</a></li>
+                <li><a href="furniture">Wall Art Sets</a></li>
+                <li><a href="furniture">All Art</a></li>
             </ul>
         </div>
         <div>
             <ul>
 
-                <li><a href="" class="boldnav">Art by Subject</a></li>
-                <li><a href="">Abstract</a></li>
-                <li><a href="">Landscape</a></li>
-                <li><a href="">Coastal & Seascape</a></li>
-                <li><a href="">Botanical</a></li>
-                <li><a href="">Animals</a></li>
-                <li><a href="">Travel & Maps</a></li>
-                <li><a href="">Figurative</a></li>
-                <li><a href="" class="boldnav">Art by Color</a></li>
-                <li><a href="">Black & White Wall Art</a></li>
-                <li><a href="">Neutral Wall Art</a></li>
-                <li><a href="">Blue Wall Art</a></li>
-                <li><a href="">Multicolor Wall Art</a></li>
+                <li><a href="furniture" class="boldnav">Art by Subject</a></li>
+                <li><a href="furniture">Abstract</a></li>
+                <li><a href="furniture">Landscape</a></li>
+                <li><a href="furniture">Coastal & Seascape</a></li>
+                <li><a href="furniture">Botanical</a></li>
+                <li><a href="furniture">Animals</a></li>
+                <li><a href="furniture">Travel & Maps</a></li>
+                <li><a href="furniture">Figurative</a></li>
+                <li><a href="furniture" class="boldnav">Art by Color</a></li>
+                <li><a href="furniture">Black & White Wall Art</a></li>
+                <li><a href="furniture">Neutral Wall Art</a></li>
+                <li><a href="furniture">Blue Wall Art</a></li>
+                <li><a href="furniture">Multicolor Wall Art</a></li>
 
             </ul>
         </div>
 
         <div>
             <ul>
-                <li><a href="" class="boldnav">Artist Spotlight</a></li>
-                <li><a href="">Lauren Herrera</a></li>
-                <li><a href="">Aleksandra Zee</a></li>
-                <li><a href="">Melissa Koby</a></li>
-                <li><a href="">Lupen Grainne</a></li>
-                <li><a href="">Walker Noble Studios</a></li>
-                <li><a href="">Morgan Harper Nichols</a></li>
+                <li><a href="furniture" class="boldnav">Artist Spotlight</a></li>
+                <li><a href="furniture">Lauren Herrera</a></li>
+                <li><a href="furniture">Aleksandra Zee</a></li>
+                <li><a href="furniture">Melissa Koby</a></li>
+                <li><a href="furniture">Lupen Grainne</a></li>
+                <li><a href="furniture">Walker Noble Studios</a></li>
+                <li><a href="furniture">Morgan Harper Nichols</a></li>
             </ul>
         </div>
 
 
         <div>
             <ul>
-                <li><a href="" class="boldnav">Wall Organization & Decor</a></li>
-                <li><a href="">Shelves & Display Ledges</a></li>
-                <li><a href="">Wall Organization & Hooks</a></li>
-                <li><a href="">Wallpaper & Decals</a></li>
-                <li><a href="">Wall Clocks</a></li>
-                <li><a href="" class="boldnav">Frames</a></li>
-                <li><a href="">Picture Frames</a></li>
-                <li><a href="">Gallery Wall Frames</a></li>
-                <li><a href="">All Frames</a></li>
-                <li><a href="" class="boldnav">Sale & Clearance</a></li>
-                <li><a href="">Up to 50% Off Mirrors & Art</a></li>
+                <li><a href="furniture" class="boldnav">Wall Organization & Decor</a></li>
+                <li><a href="furniture">Shelves & Display Ledges</a></li>
+                <li><a href="furniture">Wall Organization & Hooks</a></li>
+                <li><a href="furniture">Wallpaper & Decals</a></li>
+                <li><a href="furniture">Wall Clocks</a></li>
+                <li><a href="furniture" class="boldnav">Frames</a></li>
+                <li><a href="furniture">Picture Frames</a></li>
+                <li><a href="furniture">Gallery Wall Frames</a></li>
+                <li><a href="furniture">All Frames</a></li>
+                <li><a href="furniture" class="boldnav">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 50% Off Mirrors & Art</a></li>
 
             </ul>
         </div>
@@ -1232,20 +1232,20 @@ function mirrors() {
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Christmas Wall Art & Frames</a></li>
-            <li><a href="">Best Selling Wood Gallery Frames</a></li>
-            <li><a href="">Woven Wall Accents</a></li>
-            <li><a href="" class="boldnav">Design Resources</a></li>
-            <li><a href="">Our Favorite Gallery Walls</a></li>
-            <li><a href="">How to Hang Artwork</a></li>
-            <li><a href="">How to Design a Gallery Wall</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">Pottery Barn Baby & Kids Decor</a></li>
-            <li><a href="">Pottery Barn Teen Decor</a></li>
-            <li><a href="">West Elm Mirrors</a></li>
-            <li><a href="">Williams Sonoma Home Mirrors</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Christmas Wall Art & Frames</a></li>
+            <li><a href="furniture">Best Selling Wood Gallery Frames</a></li>
+            <li><a href="furniture">Woven Wall Accents</a></li>
+            <li><a href="furniture" class="boldnav">Design Resources</a></li>
+            <li><a href="furniture">Our Favorite Gallery Walls</a></li>
+            <li><a href="furniture">How to Hang Artwork</a></li>
+            <li><a href="furniture">How to Design a Gallery Wall</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">Pottery Barn Baby & Kids Decor</a></li>
+            <li><a href="furniture">Pottery Barn Teen Decor</a></li>
+            <li><a href="furniture">West Elm Mirrors</a></li>
+            <li><a href="furniture">Williams Sonoma Home Mirrors</a></li>
         </ul>
     </div>
 </div>`;
@@ -1256,46 +1256,46 @@ function tabletop() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Dinnerware</a></li>
-                <li><a href="">Dinnerware Collections</a></li>
-                <li><a href="">Outdoor Dinnerware</a></li>
-                <li><a href="">Dinnerware Sets</a></li>
-                <li><a href="">Dinner Plates</a></li>
-                <li><a href="">Appetizer & Salad Plates</a></li>
-                <li><a href="">Bowls</a></li>
-                <li><a href="">Coffee Mugs & Teacups</a></li>
-                <li><a href="">All Dinnerware</a></li>
-                <li><a href="" class="boldnav">Serveware</a></li>
-                <li><a href="">Entertaining Collections</a></li>
-                <li><a href="">Outdoor Serveware</a></li>
-                <li><a href="">Serving Trays & Platters</a></li>
-                <li><a href="">Serving Bowls</a></li>
-                <li><a href="">Cheese Boards & Knives</a></li>
-                <li><a href="">Snack & Condiment Bowls</a></li>
-                <li><a href="">Cake & Tiered Stands</a></li>
-                <li><a href="">Serving Utensils</a></li>
-                <li><a href="">All Serveware</a></li>
+                <li><a href="furniture" class="boldnav">Dinnerware</a></li>
+                <li><a href="furniture">Dinnerware Collections</a></li>
+                <li><a href="furniture">Outdoor Dinnerware</a></li>
+                <li><a href="furniture">Dinnerware Sets</a></li>
+                <li><a href="furniture">Dinner Plates</a></li>
+                <li><a href="furniture">Appetizer & Salad Plates</a></li>
+                <li><a href="furniture">Bowls</a></li>
+                <li><a href="furniture">Coffee Mugs & Teacups</a></li>
+                <li><a href="furniture">All Dinnerware</a></li>
+                <li><a href="furniture" class="boldnav">Serveware</a></li>
+                <li><a href="furniture">Entertaining Collections</a></li>
+                <li><a href="furniture">Outdoor Serveware</a></li>
+                <li><a href="furniture">Serving Trays & Platters</a></li>
+                <li><a href="furniture">Serving Bowls</a></li>
+                <li><a href="furniture">Cheese Boards & Knives</a></li>
+                <li><a href="furniture">Snack & Condiment Bowls</a></li>
+                <li><a href="furniture">Cake & Tiered Stands</a></li>
+                <li><a href="furniture">Serving Utensils</a></li>
+                <li><a href="furniture">All Serveware</a></li>
             </ul>
         </div>
         <div>
             <ul>
 
-                <li><a href="" class="boldnav">Drinkware & Bar</a></li>
-                <li><a href="">Glassware Collections</a></li>
-                <li><a href="">Outdoor Drinkware</a></li>
-                <li><a href="">Drinking Glasses</a></li>
-                <li><a href="">Wine & Champagne Glasses</a></li>
-                <li><a href="">Cocktail & Beer Glasses</a></li>
-                <li><a href="">Coffee Mugs & Teacups</a></li>
-                <li><a href="">Barware Collections</a></li>
-                <li><a href="">Bar & Wine Accessories</a></li>
-                <li><a href="">Drink Coasters</a></li>
-                <li><a href="">Drink Dispensers & Pitchers</a></li>
-                <li><a href="">All Drinkware & Bar</a></li>
-                <li><a href="" class="boldnav">Flatware</a></li>
-                <li><a href="">Flatware Sets</a></li>
-                <li><a href="">Serving Utensils</a></li>
-                <li><a href="">All Flatware</a></li>
+                <li><a href="furniture" class="boldnav">Drinkware & Bar</a></li>
+                <li><a href="furniture">Glassware Collections</a></li>
+                <li><a href="furniture">Outdoor Drinkware</a></li>
+                <li><a href="furniture">Drinking Glasses</a></li>
+                <li><a href="furniture">Wine & Champagne Glasses</a></li>
+                <li><a href="furniture">Cocktail & Beer Glasses</a></li>
+                <li><a href="furniture">Coffee Mugs & Teacups</a></li>
+                <li><a href="furniture">Barware Collections</a></li>
+                <li><a href="furniture">Bar & Wine Accessories</a></li>
+                <li><a href="furniture">Drink Coasters</a></li>
+                <li><a href="furniture">Drink Dispensers & Pitchers</a></li>
+                <li><a href="furniture">All Drinkware & Bar</a></li>
+                <li><a href="furniture" class="boldnav">Flatware</a></li>
+                <li><a href="furniture">Flatware Sets</a></li>
+                <li><a href="furniture">Serving Utensils</a></li>
+                <li><a href="furniture">All Flatware</a></li>
 
 
             </ul>
@@ -1303,24 +1303,24 @@ function tabletop() {
 
         <div>
             <ul>
-                <li><a href="" class="boldnav">Table Linens & Accessories</a></li>
-                <li><a href="">Runners & Tablecloths</a></li>
-                <li><a href="">Placemats & Chargers</a></li>
-                <li><a href="">Napkins</a></li>
-                <li><a href="">Napkin Rings & Place Card Holders</a></li>
-                <li><a href="">All Table Linens</a></li>
-                <li><a href="" class="boldnav">Kitchen</a></li>
-                <li><a href="">Tools and Utensils</a></li>
-                <li><a href="">Organization & Food Storage</a></li>
-                <li><a href="">Kitchen Towels</a></li>
-                <li><a href="">Cleaning Supplies</a></li>
-                <li><a href="">Coffee & Tea Accessories</a></li>
-                <li><a href="">Soaps & Lotions</a></li>
-                <li><a href="">All Kitchen</a></li>
-                <li><a href="" class="boldnav">Cabinet Hardware</a></li>
-                <li><a href="">Cabinet Knobs</a></li>
-                <li><a href="">Drawer Pulls</a></li>
-                <li><a href="">All Cabinet Hardware</a></li>
+                <li><a href="furniture" class="boldnav">Table Linens & Accessories</a></li>
+                <li><a href="furniture">Runners & Tablecloths</a></li>
+                <li><a href="furniture">Placemats & Chargers</a></li>
+                <li><a href="furniture">Napkins</a></li>
+                <li><a href="furniture">Napkin Rings & Place Card Holders</a></li>
+                <li><a href="furniture">All Table Linens</a></li>
+                <li><a href="furniture" class="boldnav">Kitchen</a></li>
+                <li><a href="furniture">Tools and Utensils</a></li>
+                <li><a href="furniture">Organization & Food Storage</a></li>
+                <li><a href="furniture">Kitchen Towels</a></li>
+                <li><a href="furniture">Cleaning Supplies</a></li>
+                <li><a href="furniture">Coffee & Tea Accessories</a></li>
+                <li><a href="furniture">Soaps & Lotions</a></li>
+                <li><a href="furniture">All Kitchen</a></li>
+                <li><a href="furniture" class="boldnav">Cabinet Hardware</a></li>
+                <li><a href="furniture">Cabinet Knobs</a></li>
+                <li><a href="furniture">Drawer Pulls</a></li>
+                <li><a href="furniture">All Cabinet Hardware</a></li>
             </ul>
         </div>
 
@@ -1328,20 +1328,20 @@ function tabletop() {
         <div>
             <ul>
 
-                <li><a href="" class="boldnav">Holidays</a></li>
-                <li><a href="">Halloween Entertaining</a></li>
-                <li><a href="">Thanksgiving Entertaining</a></li>
-                <li><a href="">Christmas Entertaining</a></li>
-                <li><a href="">New Year's Entertaining</a></li>
-                <li><a href="" class="boldnav">Outdoor Dining & Entertaining</a></li>
-                <li><a href="">Outdoor Dinnerware & Entertaining</a></li>
-                <li><a href="" class="boldnav">Featured Brands</a></li>
-                <li><a href="">Holmegaard</a></li>
-                <li><a href="">Schott Zwiesel</a></li>
-                <li><a href="">Laguiole</a></li>
-                <li><a href="">SOMA</a></li>
-                <li><a href="" class="boldnav">Sale & Clearance</a></li>
-                <li><a href="">Up to 70% Off Tabletop & Bar</a></li>
+                <li><a href="furniture" class="boldnav">Holidays</a></li>
+                <li><a href="furniture">Halloween Entertaining</a></li>
+                <li><a href="furniture">Thanksgiving Entertaining</a></li>
+                <li><a href="furniture">Christmas Entertaining</a></li>
+                <li><a href="furniture">New Year's Entertaining</a></li>
+                <li><a href="furniture" class="boldnav">Outdoor Dining & Entertaining</a></li>
+                <li><a href="furniture">Outdoor Dinnerware & Entertaining</a></li>
+                <li><a href="furniture" class="boldnav">Featured Brands</a></li>
+                <li><a href="furniture">Holmegaard</a></li>
+                <li><a href="furniture">Schott Zwiesel</a></li>
+                <li><a href="furniture">Laguiole</a></li>
+                <li><a href="furniture">SOMA</a></li>
+                <li><a href="furniture" class="boldnav">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 70% Off Tabletop & Bar</a></li>
 
             </ul>
         </div>
@@ -1351,17 +1351,17 @@ function tabletop() {
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Best-Selling Mason Collection</a></li>
-            <li><a href="">Artisanal Glazed Stoneware</a></li>
-            <li><a href="">Hammered Glass Drinkware</a></li>
-            <li><a href="" class="boldnav">Design Resources</a></li>
-            <li><a href="">Holiday Table Settings</a></li>
-            <li><a href="">Glassware Buying Guide</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">West Elm Kitchen & Dining</a></li>
-            <li><a href="">Williams Sono</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Best-Selling Mason Collection</a></li>
+            <li><a href="furniture">Artisanal Glazed Stoneware</a></li>
+            <li><a href="furniture">Hammered Glass Drinkware</a></li>
+            <li><a href="furniture" class="boldnav">Design Resources</a></li>
+            <li><a href="furniture">Holiday Table Settings</a></li>
+            <li><a href="furniture">Glassware Buying Guide</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">West Elm Kitchen & Dining</a></li>
+            <li><a href="furniture">Williams Sono</a></li>
         </ul>
     </div>
 </div>`;
@@ -1372,34 +1372,34 @@ function organization() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">Storage by Category</a></li>
-                <li><a href="">Baskets & Bins</a></li>
-                <li><a href="">Organizational Systems</a></li>
-                <li><a href="">Wall Organization</a></li>
-                <li><a href="">Shelves & Display Ledges</a></li>
-                <li><a href="">Hooks</a></li>
-                <li><a href="">Office Accessories</a></li>
-                <li><a href="">Storage Cabinets</a></li>
-                <li><a href="">Coat Racks & Shoe Racks</a></li>
-                <li><a href="">Laundry & Hampers</a></li>
-                <li><a href="">Bathroom Storage</a></li>
-                <li><a href="">Jewelry Boxes & Storage</a></li>
-                <li><a href="">All Storage & Organization</a></li>
+                <li><a href="furniture" class="boldnav">Storage by Category</a></li>
+                <li><a href="furniture">Baskets & Bins</a></li>
+                <li><a href="furniture">Organizational Systems</a></li>
+                <li><a href="furniture">Wall Organization</a></li>
+                <li><a href="furniture">Shelves & Display Ledges</a></li>
+                <li><a href="furniture">Hooks</a></li>
+                <li><a href="furniture">Office Accessories</a></li>
+                <li><a href="furniture">Storage Cabinets</a></li>
+                <li><a href="furniture">Coat Racks & Shoe Racks</a></li>
+                <li><a href="furniture">Laundry & Hampers</a></li>
+                <li><a href="furniture">Bathroom Storage</a></li>
+                <li><a href="furniture">Jewelry Boxes & Storage</a></li>
+                <li><a href="furniture">All Storage & Organization</a></li>
             </ul>
         </div>
         <div>
             <ul>
 
-                <li><a href="" class="boldnav">Storage by Room</a></li>
-                <li><a href="">Office Solutions</a></li>
-                <li><a href="">Entryway</a></li>
-                <li><a href="">Laundry Room</a></li>
-                <li><a href="">Closet</a></li>
-                <li><a href="">Kitchen</a></li>
-                <li><a href="">Bathroom</a></li>
-                <li><a href="">Living Room</a></li>
-                <li><a href="">Bedroom</a></li>
-                <li><a href="">Outdoor</a></li>
+                <li><a href="furniture" class="boldnav">Storage by Room</a></li>
+                <li><a href="furniture">Office Solutions</a></li>
+                <li><a href="furniture">Entryway</a></li>
+                <li><a href="furniture">Laundry Room</a></li>
+                <li><a href="furniture">Closet</a></li>
+                <li><a href="furniture">Kitchen</a></li>
+                <li><a href="furniture">Bathroom</a></li>
+                <li><a href="furniture">Living Room</a></li>
+                <li><a href="furniture">Bedroom</a></li>
+                <li><a href="furniture">Outdoor</a></li>
 
 
             </ul>
@@ -1407,14 +1407,14 @@ function organization() {
 
         <div>
             <ul>
-                <li><a href="" class="boldnav">Luggage & Travel</a></li>
-                <li><a href="">Luggage & Weekenders</a></li>
-                <li><a href="">Cosmetic Bags & Toiletry Cases</a></li>
-                <li><a href="">Travel Accessories</a></li>
-                <li><a href="">Tech Accessories</a></li>
-                <li><a href="">All Luggage & Travel</a></li>
-                <li><a href="" class="boldnav">Sale & Clearance</a></li>
-                <li><a href="">Up to 70% Off Organization</a></li>
+                <li><a href="furniture" class="boldnav">Luggage & Travel</a></li>
+                <li><a href="furniture">Luggage & Weekenders</a></li>
+                <li><a href="furniture">Cosmetic Bags & Toiletry Cases</a></li>
+                <li><a href="furniture">Travel Accessories</a></li>
+                <li><a href="furniture">Tech Accessories</a></li>
+                <li><a href="furniture">All Luggage & Travel</a></li>
+                <li><a href="furniture" class="boldnav">Sale & Clearance</a></li>
+                <li><a href="furniture">Up to 70% Off Organization</a></li>
             </ul>
         </div>
 
@@ -1426,17 +1426,17 @@ function organization() {
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">New Arrivals</a></li>
-            <li><a href="">Acrylic Desk & Closet Organization</a></li>
-            <li><a href="">Leather Desk Storage</a></li>
-            <li><a href="">Shop Our Family Of Brands</a></li>
-            <li><a href="">PB Apartment Storage</a></li>
-            <li><a href="">Pottery Barn Baby & Kids Storage</a></li>
-            <li><a href="">Pottery Barn Teen Storage</a></li>
-            <li><a href="">Pottery Barn Dorm Storage</a></li>
-            <li><a href="">West Elm Storage</a></li>
-            <li><a href="">Rejuvenation Storage & Organization</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">New Arrivals</a></li>
+            <li><a href="furniture">Acrylic Desk & Closet Organization</a></li>
+            <li><a href="furniture">Leather Desk Storage</a></li>
+            <li><a href="furniture">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">PB Apartment Storage</a></li>
+            <li><a href="furniture">Pottery Barn Baby & Kids Storage</a></li>
+            <li><a href="furniture">Pottery Barn Teen Storage</a></li>
+            <li><a href="furniture">Pottery Barn Dorm Storage</a></li>
+            <li><a href="furniture">West Elm Storage</a></li>
+            <li><a href="furniture">Rejuvenation Storage & Organization</a></li>
         </ul>
     </div>
 </div>`;
@@ -1465,34 +1465,34 @@ function holidays() {
         </div>
         <div>
             <ul>
-                <li><a href="" class="boldnav">Shop by Occasion</a></li>
-                <li><a href="">Christmas</a></li>
-                <li><a href="">New Year's</a></li>
-                <li><a href="">Thanksgiving</a></li>
-                <li><a href="">Halloween</a></li>
-                <li><a href="">Hanukkah</a></li>
-                <li><a href="">Diwali</a></li>
+                <li><a href="furniture" class="boldnav">Shop by Occasion</a></li>
+                <li><a href="furniture">Christmas</a></li>
+                <li><a href="furniture">New Year's</a></li>
+                <li><a href="furniture">Thanksgiving</a></li>
+                <li><a href="furniture">Halloween</a></li>
+                <li><a href="furniture">Hanukkah</a></li>
+                <li><a href="furniture">Diwali</a></li>
             </ul>
         </div>
         <div>
             <ul>
 
-                <li><a href="" class="boldnav">Christmas</a></li>
-                <li><a href="">Stockings & Stocking Holders</a></li>
-                <li><a href="">Tree Skirts & Tree Collars</a></li>
-                <li><a href="">Ornaments & Tree Toppers</a></li>
-                <li><a href="">Faux Christmas Trees</a></li>
-                <li><a href="">Wreaths, Garlands & Botanicals</a></li>
-                <li><a href="">String Lights & Lit Decor</a></li>
-                <li><a href="">Outdoor Decorations</a></li>
-                <li><a href="">Doormats</a></li>
-                <li><a href="">Tabletop & Bar</a></li>
-                <li><a href="">Bedding</a></li>
-                <li><a href="">Pillows & Throws</a></li>
-                <li><a href="">Wall & Room Decor</a></li>
-                <li><a href="">Candles & Candleholders</a></li>
-                <li><a href="">Bath Linens</a></li>
-                <li><a href="">Shop All Christmas</a></li>
+                <li><a href="furniture" class="boldnav">Christmas</a></li>
+                <li><a href="furniture">Stockings & Stocking Holders</a></li>
+                <li><a href="furniture">Tree Skirts & Tree Collars</a></li>
+                <li><a href="furniture">Ornaments & Tree Toppers</a></li>
+                <li><a href="furniture">Faux Christmas Trees</a></li>
+                <li><a href="furniture">Wreaths, Garlands & Botanicals</a></li>
+                <li><a href="furniture">String Lights & Lit Decor</a></li>
+                <li><a href="furniture">Outdoor Decorations</a></li>
+                <li><a href="furniture">Doormats</a></li>
+                <li><a href="furniture">Tabletop & Bar</a></li>
+                <li><a href="furniture">Bedding</a></li>
+                <li><a href="furniture">Pillows & Throws</a></li>
+                <li><a href="furniture">Wall & Room Decor</a></li>
+                <li><a href="furniture">Candles & Candleholders</a></li>
+                <li><a href="furniture">Bath Linens</a></li>
+                <li><a href="furniture">Shop All Christmas</a></li>
 
 
             </ul>
@@ -1500,23 +1500,23 @@ function holidays() {
 
         <div>
             <ul>
-                <li><a href="" class="boldnav">Lookbooks</a></li>
-                <li><a href="">The Holiday Lookbook</a></li>
-                <li><a href="" class="boldnav">Holiday Favorites</a></li>
-                <li><a href="">Christmas Trees</a></li>
-                <li><a href="">Holiday Mantels</a></li>
-                <li><a href="">Front Doors</a></li>
-                <li><a href="">Pillow Pairings</a></li>
-                <li><a href="">Bedding Looks</a></li>
-                <li><a href="">Table Settings</a></li>
-                <li><a href="">Gifts</a></li>
-                <li><a href="" class="boldnav">Shop by Christmas Style</a></li>
-                <li><a href="">Nordic Retreat</a></li>
-                <li><a href="">Holiday Classics</a></li>
-                <li><a href="">Ski Chalet</a></li>
-                <li><a href="">Winter Whites</a></li>
-                <li><a href="" class="boldnav">Sale</a></li>
-                <li><a href="">Up to 70% Off Holiday</a></li>
+                <li><a href="furniture" class="boldnav">Lookbooks</a></li>
+                <li><a href="furniture">The Holiday Lookbook</a></li>
+                <li><a href="furniture" class="boldnav">Holiday Favorites</a></li>
+                <li><a href="furniture">Christmas Trees</a></li>
+                <li><a href="furniture">Holiday Mantels</a></li>
+                <li><a href="furniture">Front Doors</a></li>
+                <li><a href="furniture">Pillow Pairings</a></li>
+                <li><a href="furniture">Bedding Looks</a></li>
+                <li><a href="furniture">Table Settings</a></li>
+                <li><a href="furniture">Gifts</a></li>
+                <li><a href="furniture" class="boldnav">Shop by Christmas Style</a></li>
+                <li><a href="furniture">Nordic Retreat</a></li>
+                <li><a href="furniture">Holiday Classics</a></li>
+                <li><a href="furniture">Ski Chalet</a></li>
+                <li><a href="furniture">Winter Whites</a></li>
+                <li><a href="furniture" class="boldnav">Sale</a></li>
+                <li><a href="furniture">Up to 70% Off Holiday</a></li>
             </ul>
         </div>
 
@@ -1528,16 +1528,16 @@ function holidays() {
     </div>
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Trending Now</a></li>
-            <li><a href="">Gnome Sweet Gnome</a></li>
-            <li><a href="">Glowing Decor</a></li>
-            <li><a href="">The Plaid Shop</a></li>
-            <li><a href="">Whimsical Pillows</a></li>
-            <li><a href="">Winter Botanicals</a></li>
-            <li><a href="">Shop All Holiday Trends</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">Pottery Barn Kids Holiday</a></li>
-            <li><a href="">Pottery Barn Teen Holiday</a></li>
+            <li><a href="furniture" class="boldnav">Trending Now</a></li>
+            <li><a href="furniture">Gnome Sweet Gnome</a></li>
+            <li><a href="furniture">Glowing Decor</a></li>
+            <li><a href="furniture">The Plaid Shop</a></li>
+            <li><a href="furniture">Whimsical Pillows</a></li>
+            <li><a href="furniture">Winter Botanicals</a></li>
+            <li><a href="furniture">Shop All Holiday Trends</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">Pottery Barn Kids Holiday</a></li>
+            <li><a href="furniture">Pottery Barn Teen Holiday</a></li>
         </ul>
     </div>
 </div>`;
@@ -1548,33 +1548,33 @@ function gifts() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">All Gifts</a></li>
-                <li><a href="">Shop All Gifts</a></li>
-                <li><a href="" class="boldnav">Gifts By Recipient</a></li>
-                <li><a href="">For Her</a></li>
-                <li><a href="">For Him</a></li>
-                <li><a href="">For the Family</a></li>
-                <li><a href="">For Pets</a></li>
-                <li><a href="">For Employees & Clients</a></li>
-                <li><a href="" class="boldnav">Gifts By Price</a></li>
-                <li><a href="">$25 & Under</a></li>
-                <li><a href="">$50 & Under</a></li>
-                <li><a href="">$100 & Under</a></li>
+                <li><a href="furniture" class="boldnav">All Gifts</a></li>
+                <li><a href="furniture">Shop All Gifts</a></li>
+                <li><a href="furniture" class="boldnav">Gifts By Recipient</a></li>
+                <li><a href="furniture">For Her</a></li>
+                <li><a href="furniture">For Him</a></li>
+                <li><a href="furniture">For the Family</a></li>
+                <li><a href="furniture">For Pets</a></li>
+                <li><a href="furniture">For Employees & Clients</a></li>
+                <li><a href="furniture" class="boldnav">Gifts By Price</a></li>
+                <li><a href="furniture">$25 & Under</a></li>
+                <li><a href="furniture">$50 & Under</a></li>
+                <li><a href="furniture">$100 & Under</a></li>
             </ul>
         </div>
         <div>
             <ul>
 
-                <li><a href="" class="boldnav">Gift Guides</a></li>
-                <li><a href="">Our Favorite Gifts</a></li>
-                <li><a href="">Gifts of Self-Care</a></li>
-                <li><a href="">Gifts for the Host & Hostess</a></li>
-                <li><a href="">Gifts for the Decorator</a></li>
-                <li><a href="">Gifts for the Gardener</a></li>
-                <li><a href="">Gifts for the Entertainer</a></li>
-                <li><a href="">Gifts That Give Back</a></li>
-                <li><a href="">Stocking Stuffers</a></li>
-                <li><a href="">Wow Gifts</a></li>
+                <li><a href="furniture" class="boldnav">Gift Guides</a></li>
+                <li><a href="furniture">Our Favorite Gifts</a></li>
+                <li><a href="furniture">Gifts of Self-Care</a></li>
+                <li><a href="furniture">Gifts for the Host & Hostess</a></li>
+                <li><a href="furniture">Gifts for the Decorator</a></li>
+                <li><a href="furniture">Gifts for the Gardener</a></li>
+                <li><a href="furniture">Gifts for the Entertainer</a></li>
+                <li><a href="furniture">Gifts That Give Back</a></li>
+                <li><a href="furniture">Stocking Stuffers</a></li>
+                <li><a href="furniture">Wow Gifts</a></li>
 
 
 
@@ -1583,22 +1583,22 @@ function gifts() {
 
         <div>
             <ul>
-                <li><a href="" class="boldnav">Gifts by Category</a></li>
-                <li><a href="">Personalized Gifts</a></li>
-                <li><a href="">Throws</a></li>
-                <li><a href="">Robes & Slippers</a></li>
-                <li><a href="">Bath & Spa</a></li>
-                <li><a href="">Jewelry Boxes & Storage</a></li>
-                <li><a href="">Picture Frames</a></li>
-                <li><a href="">Candles & Candleholders</a></li>
-                <li><a href="">Plants & Flowers</a></li>
-                <li><a href="">Cheese Boards & Knives</a></li>
-                <li><a href="">Barware & Glassware</a></li>
-                <li><a href="">Mugs</a></li>
-                <li><a href="">Games & Game Tables</a></li>
-                <li><a href="">Tech & Gadgets</a></li>
-                <li><a href="">Luggage & Travel</a></li>
-                <li><a href="">Gift Wrap</a></li>
+                <li><a href="furniture" class="boldnav">Gifts by Category</a></li>
+                <li><a href="furniture">Personalized Gifts</a></li>
+                <li><a href="furniture">Throws</a></li>
+                <li><a href="furniture">Robes & Slippers</a></li>
+                <li><a href="furniture">Bath & Spa</a></li>
+                <li><a href="furniture">Jewelry Boxes & Storage</a></li>
+                <li><a href="furniture">Picture Frames</a></li>
+                <li><a href="furniture">Candles & Candleholders</a></li>
+                <li><a href="furniture">Plants & Flowers</a></li>
+                <li><a href="furniture">Cheese Boards & Knives</a></li>
+                <li><a href="furniture">Barware & Glassware</a></li>
+                <li><a href="furniture">Mugs</a></li>
+                <li><a href="furniture">Games & Game Tables</a></li>
+                <li><a href="furniture">Tech & Gadgets</a></li>
+                <li><a href="furniture">Luggage & Travel</a></li>
+                <li><a href="furniture">Gift Wrap</a></li>
             </ul>
         </div>
 
@@ -1607,16 +1607,16 @@ function gifts() {
     
     <div id="navFourthHoverBox2">
         <ul>
-            <li><a href="" class="boldnav">Gift Cards</a></li>
-            <li><a href="">Gift Cards & eGift Cards</a></li>
-            <li><a href="">Sale & Clearance</a></li>
-            <li><a href="" class="boldnav">Up to 70% Off Gifts</a></li>
-            <li><a href="" class="boldnav">Shop Our Family Of Brands</a></li>
-            <li><a href="">Pottery Barn Baby & Kids Gifts</a></li>
-            <li><a href="">Pottery Barn Teen Gifts</a></li>
-            <li><a href="">Mark & Graham Gifts</a></li>
-            <li><a href="">Williams Sonoma Gifts</a></li>
-            <li><a href="">Williams Sonoma Home Gifts</a></li>
+            <li><a href="furniture" class="boldnav">Gift Cards</a></li>
+            <li><a href="furniture">Gift Cards & eGift Cards</a></li>
+            <li><a href="furniture">Sale & Clearance</a></li>
+            <li><a href="furniture" class="boldnav">Up to 70% Off Gifts</a></li>
+            <li><a href="furniture" class="boldnav">Shop Our Family Of Brands</a></li>
+            <li><a href="furniture">Pottery Barn Baby & Kids Gifts</a></li>
+            <li><a href="furniture">Pottery Barn Teen Gifts</a></li>
+            <li><a href="furniture">Mark & Graham Gifts</a></li>
+            <li><a href="furniture">Williams Sonoma Gifts</a></li>
+            <li><a href="furniture">Williams Sonoma Home Gifts</a></li>
         </ul>
     </div>
 </div>`;
@@ -1627,38 +1627,38 @@ function sale() {
     <div id="navFourthHoverBox1">
         <div>
             <ul>
-                <li><a href="" class="boldnav">The Mega Sale | Up to 70% Off</a></li>
-                <li><a href="">Furniture</a></li>
-                <li><a href="">Bedding</a></li>
-                <li><a href="">Bath</a></li>
-                <li><a href="">Holiday</a></li>
-                <li><a href="">Pillows & Throws</a></li>
-                <li><a href="">Decor</a></li>
-                <li><a href="">Lighting</a></li>
-                <li><a href="">Tabletop & Bar</a></li>
-                <li><a href="">Mirrors & Art</a></li>
-                <li><a href="">Rugs</a></li>
-                <li><a href="">Windows</a></li>
-                <li><a href="">Organization</a></li>
-                <li><a href="">Outdoor & Garden</a></li>
-                <li><a href="">Shop All</a></li>
+                <li><a href="furniture" class="boldnav">The Mega Sale | Up to 70% Off</a></li>
+                <li><a href="furniture">Furniture</a></li>
+                <li><a href="furniture">Bedding</a></li>
+                <li><a href="furniture">Bath</a></li>
+                <li><a href="furniture">Holiday</a></li>
+                <li><a href="furniture">Pillows & Throws</a></li>
+                <li><a href="furniture">Decor</a></li>
+                <li><a href="furniture">Lighting</a></li>
+                <li><a href="furniture">Tabletop & Bar</a></li>
+                <li><a href="furniture">Mirrors & Art</a></li>
+                <li><a href="furniture">Rugs</a></li>
+                <li><a href="furniture">Windows</a></li>
+                <li><a href="furniture">Organization</a></li>
+                <li><a href="furniture">Outdoor & Garden</a></li>
+                <li><a href="furniture">Shop All</a></li>
             </ul>
         </div>
         <div>
             <ul>
 
-                <li><a href="" class="boldnav">Shop All Free Shipping</a></li>
-                <li><a href="">Free Shipping</a></li>
-                <li><a href="" class="boldnav">Outlet</a></li>
-                <li><a href="">Open Box Deals</a></li>
-                <li><a href="" class="boldnav">Shop Our Family of Brands</a></li>
-                <li><a href="">Pottery Barn Baby & Kids Sale</a></li>
-                <li><a href="">Pottery Barn Teen Sale</a></li>
-                <li><a href="">West Elm Sale</a></li>
-                <li><a href="">Williams Sonoma Sale</a></li>
-                <li><a href="">Williams Sonoma Home Sale</a></li>
-                <li><a href="">Mark & Graham Sale</a></li>
-                <li><a href="">Rejuvenation Sale</a></li>
+                <li><a href="furniture" class="boldnav">Shop All Free Shipping</a></li>
+                <li><a href="furniture">Free Shipping</a></li>
+                <li><a href="furniture" class="boldnav">Outlet</a></li>
+                <li><a href="furniture">Open Box Deals</a></li>
+                <li><a href="furniture" class="boldnav">Shop Our Family of Brands</a></li>
+                <li><a href="furniture">Pottery Barn Baby & Kids Sale</a></li>
+                <li><a href="furniture">Pottery Barn Teen Sale</a></li>
+                <li><a href="furniture">West Elm Sale</a></li>
+                <li><a href="furniture">Williams Sonoma Sale</a></li>
+                <li><a href="furniture">Williams Sonoma Home Sale</a></li>
+                <li><a href="furniture">Mark & Graham Sale</a></li>
+                <li><a href="furniture">Rejuvenation Sale</a></li>
 
 
             </ul>
